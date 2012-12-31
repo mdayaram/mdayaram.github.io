@@ -1,11 +1,10 @@
+require 'yaml'
+
 module Contacts
-  @@contacts = {
-    "Facebook" => ["https://www.facebook.com/mdayaram", "/images/contacts/facebook.png"],
-    "Twitter" => ["https://www.twitter.com/yedgyz", "/images/contacts/twitter.png"],
-    "Google Plus" => ["https://plus.google.com/107234017478509748854", "/images/contacts/gplus.png"],
-    "Pinterest" => ["https://pinterest.com/mdayaram", "/images/contacts/pinterest.png"]
-  }
+  @@contacts = YAML.load_file("#{settings.root}/private/contacts.yml")
+
   def get_contacts
+    puts "\n\n\n\n\nSETTINGS ROOT: #{settings.root}\n\n\n\n\n\n"
     @@contacts
   end
 end

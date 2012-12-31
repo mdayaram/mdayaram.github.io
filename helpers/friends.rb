@@ -1,8 +1,7 @@
+require 'yaml'
+
 module Friends
-  @@friends = {
-    "Karen Liu" => ["http://karen.flubstep.com", 4],
-    "Hampton Catlin" => ["http://www.hamptoncatlin.com", 3]
-  }
+  @@friends = YAML.load_file("#{settings.root}/private/friends.yml")
 
   def get_friends
     @@friends
