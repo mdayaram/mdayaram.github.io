@@ -15,12 +15,12 @@ helpers Contacts, Images, Friends
 set :haml, { :format => :html5 }
 
 # Stylesheets
-get "/stylesheets/:sheet.css" do |sheet|
+get "/styles/:sheet.css" do |sheet|
   content_type 'text/css', :charset => 'utf-8'
   if sheet.nil? or sheet.empty?
     return 404
   end
-  scss "stylesheets/#{sheet}".to_sym, :charset => "utf-8"
+  scss "#{sheet}".to_sym, { :charset => "utf-8", :views => "#{settings.root}/styles" }
 end
 
 # Normal pages
