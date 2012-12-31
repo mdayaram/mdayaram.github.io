@@ -1,4 +1,21 @@
-%h1= "Beowulf!"
-%img{:src => "/images/beowulf.jpg"}
-%p= "And that's that!"
-%img{:src => "/images/youredone.gif"}
+#projects
+	%a{ :href => "/projects.html" }
+		.img-scroll
+			%p= "Projects"
+			- get_project_imgs.each do |url|
+				%img{ :src => "#{url}" }
+
+#blog
+	%a{ :href => "http://blog.noj.cc" }
+		.img-scroll
+			%p= "Blog"
+			- get_blog_imgs.each do |url|
+				%img{ :src => "#{url}" }
+
+#random
+	%a{ :href => "/random.html" }
+		.img-scroll
+			%p= "Random"
+			- get_random_imgs.each do |url|
+				%img{ :src => "#{url}" }
+
