@@ -1,6 +1,7 @@
 module Friends
   @@friends = {
-    "Karen Liu" => ["http://karen.flubstep.com", 4]
+    "Karen Liu" => ["http://karen.flubstep.com", 4],
+    "Hampton Catlin" => ["http://www.hamptoncatlin.com", 3]
   }
 
   def get_friends
