@@ -1,4 +1,30 @@
 %head
 	%title= "Manoj Dayaram"
 %body
-	=yield
+
+	%header
+		%span{ :id => "h_lb" } [
+		%span{ :id => "title" } Manoj Dayaram
+		%span{ :id => "h_rb" } ]
+
+	#about
+		#profile
+			- get_profile_imgs.each do |url|
+				%img{ :src => "#{url}" }
+		#contact
+			- get_contacts.each do |name, info|
+				%a{ :target => "_top", :alt => "#{name}", :href => "#{info[0]}" }
+					%img{ :src => "#{info[1]}" }
+		#friends_title
+			= "FRIENDS"
+		#friends
+			- get_friends.each do |name, info|
+				.friend
+					.f_name= name
+					%a{ :target => "_top", :alt => "#{name}", :href => "#{info[0]}" }
+						- get_friend_imgs(name).each do |img_path|
+							%img{ :src => "#{img_path}" }
+
+	.content
+		=yield
+	%footer

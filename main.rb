@@ -1,12 +1,18 @@
 require 'rubygems'
 require 'sinatra'
 
+# Templating
 require 'haml'
 require 'sass'
 
-# Configuration
-set :haml, :format => :html5
+# Helpers
+require './helpers/contacts'
+require './helpers/images'
+require './helpers/friends'
+helpers Contacts, Images, Friends
 
+# Configuration
+set :haml, { :format => :html5 }
 
 # Stylesheets
 get "/stylesheets/:sheet.css" do |sheet|
@@ -18,10 +24,8 @@ get "/stylesheets/:sheet.css" do |sheet|
 end
 
 # Normal pages
-get "/index.html" do
-  haml "index.html".to_sym
-end
-
-get "/" do
-  haml "index.html".to_sym
+[ "/", "/index.html"].each do |path|
+  get path do
+    haml "index.html".to_sym
+  end
 end
