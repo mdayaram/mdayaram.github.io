@@ -25,8 +25,7 @@
 					.f_name= name
 					%a{ :target => "_top", :href => "#{info[0]}" }
 						.img-scroll
-							- get_friend_imgs(name).each do |img_path|
-								%img{ :alt => "#{name}", :src => "#{img_path}" }
+							%img{ :alt => "#{name}", :src => "#{info[1]}" }
 
 	.content
 		=yield
