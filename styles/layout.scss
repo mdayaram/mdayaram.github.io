@@ -1,6 +1,25 @@
-#about {
+body, html {
+	padding: 0px;
+	margin: 0px;
+	color: #000;
+	background: #fff;
+}
+
+#sink {
+	padding-top: 20px; 
+	display: table;
+	width: 100%;
+}
+
+#west-nav {
+	display: table-cell;
 	width: $about_width;
-	display: inline-block;
+	vertical-align: top;
+}
+
+#east-nav {
+	display: table-cell;
+	vertical-align: top;
 }
 
 
@@ -32,4 +51,8 @@
 
 .content {
 	display: inline-block;
+}
+
+footer {
+	clear: both;
 }
