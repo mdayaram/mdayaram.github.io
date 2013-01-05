@@ -24,8 +24,7 @@
 				#friends
 					- get_friends.each do |name, info|
 						.friend
-							.f_name= name
-							%a{ :target => "_top", :href => "#{info[0]}" }
+							%a{ :target => "_top", :href => "#{info[0]}", :title => "#{name}" }
 								%img{ :alt => "#{name}", :src => "#{info[1]}" }
 
 		#east-nav
