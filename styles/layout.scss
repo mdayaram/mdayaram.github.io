@@ -7,8 +7,11 @@
 	width: $profile_width;
 	margin-left: auto;
 	margin-right: auto;
+	.img-scroll {
+		width: $profile_width;
+		height: $profile_width;
+	}
 	img {
-		display: inline-block;
 		width: $profile_width;
 		height: $profile_width;
 		border-radius: 10px;
