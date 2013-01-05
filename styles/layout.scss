@@ -13,13 +13,21 @@ body, html {
 
 #west-nav {
 	display: table-cell;
-	width: $about_width;
+	width: $west_width;
 	vertical-align: top;
+}
+#west-nav-wrapper {
+	width: $west_wrapper_width;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #east-nav {
 	display: table-cell;
 	vertical-align: top;
+}
+#east-nav-wrapper {
+	margin-right: $east_wrapper_pad;
 }
 
 
@@ -37,9 +45,6 @@ body, html {
 
 
 #contact {
-	width: $contacts_width;
-	margin-left: auto;
-	margin-right: auto;
 	text-align: center;
 }
 

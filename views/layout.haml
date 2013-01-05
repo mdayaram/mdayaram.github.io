@@ -8,32 +8,34 @@
 %body
 	#sink
 		#west-nav
-			#profile
-				.img-scroll
-					%ul
-						- get_profile_imgs.each do |url|
-							%li
-								%img{ :alt => "jub jub joo, wub wub", :src => "#{url}" }
-			#contact
-				- get_contacts.each do |name, info|
-					%a{ :target => "_top", :href => "#{info[0]}", :onclick => "#{info[2]}" }
-						%img{ :alt => "#{name}", :src => "#{info[1]}" }
-			#friends_title
-				= "FRIENDS"
-			#friends
-				- get_friends.each do |name, info|
-					.friend
-						.f_name= name
-						%a{ :target => "_top", :href => "#{info[0]}" }
+			#west-nav-wrapper
+				#profile
+					.img-scroll
+						%ul
+							- get_profile_imgs.each do |url|
+								%li
+									%img{ :alt => "jub jub joo, wub wub", :src => "#{url}" }
+				#contact
+					- get_contacts.each do |name, info|
+						%a{ :target => "_top", :href => "#{info[0]}", :onclick => "#{info[2]}" }
 							%img{ :alt => "#{name}", :src => "#{info[1]}" }
+				#friends_title
+					= "FRIENDS"
+				#friends
+					- get_friends.each do |name, info|
+						.friend
+							.f_name= name
+							%a{ :target => "_top", :href => "#{info[0]}" }
+								%img{ :alt => "#{name}", :src => "#{info[1]}" }
 
 		#east-nav
-			%header
-				#h_lb [
-				#title Manoj Dayaram
-				#h_rb ]
+			#east-nav-wrapper
+				%header
+					#h_lb [
+					#title Manoj Dayaram
+					#h_rb ]
 
-			.content
-				=yield
-		
+				.content
+					=yield
+
 	%footer

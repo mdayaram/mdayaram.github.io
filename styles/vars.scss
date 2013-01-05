@@ -2,6 +2,10 @@ $header_height: 75px;
 $header_font: Rambla, Century Gothic, sans-serif;
 $header_font_size: 50px;
 
-$about_width: 350px;
-$profile_width: $about_width - 50px;
-$contacts_width: $about_width - 25px;
+$west_width: 350px;
+$west_wrapper_pad: 10px;
+$west_wrapper_width: $west_width - $west_wrapper_pad * 2;
+
+$profile_width: $west_width - 50px;
+
+$east_wrapper_pad: 15px;
