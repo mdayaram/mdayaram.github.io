@@ -1,0 +1,19 @@
+header {
+	display: block;
+	position: relative;
+	width: 100%;
+	height: $header_height;
+}
+
+#h_lb {
+	float: left;
+}
+#h_rb {
+	float: right;
+}
+#title {
+	text-align: center;
+	width: 100%;
+	position: absolute;
+}
+
