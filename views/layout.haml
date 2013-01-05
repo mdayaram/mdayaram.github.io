@@ -17,7 +17,7 @@
 									%img{ :alt => "jub jub joo, wub wub", :src => "#{url}" }
 				#contact
 					- get_contacts.each do |name, info|
-						%a{ :target => "_top", :href => "#{info[0]}", :onclick => "#{info[2]}" }
+						%a{ :target => "_top", :href => "#{info[0]}", :title => "#{name}", :onclick => "#{info[2]}" }
 							%img{ :alt => "#{name}", :src => "#{info[1]}" }
 				#friends_title
 					= "FRIENDS"
