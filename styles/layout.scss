@@ -3,31 +3,32 @@
 	display: inline-block;
 }
 
+
 #profile {
 	width: $profile_width;
+	height: $profile_width;
 	margin-left: auto;
 	margin-right: auto;
-	.img-scroll {
-		width: $profile_width;
-		height: $profile_width;
-	}
-	img {
-		width: $profile_width;
-		height: $profile_width;
-		border-radius: 10px;
-	}
 }
+#profile img {
+	width: $profile_width;
+	height: $profile_width;
+	border-radius: 10px;
+}
+
 
 #contact {
 	width: $contacts_width;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
-	a { 
-		display: inline-block; 
-		margin: 10px;
-	}
 }
+
+#contact a { 
+	display: inline-block; 
+	margin: 10px;
+}
+
 
 .content {
 	display: inline-block;

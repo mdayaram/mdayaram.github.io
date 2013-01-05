@@ -14,8 +14,10 @@
 	#about
 		#profile
 			.img-scroll
-				- get_profile_imgs.each do |url|
-					%img{ :alt => "jub jub joo, wub wub", :src => "#{url}" }
+				%ul
+					- get_profile_imgs.each do |url|
+						%li
+							%img{ :alt => "jub jub joo, wub wub", :src => "#{url}" }
 		#contact
 			- get_contacts.each do |name, info|
 				%a{ :target => "_top", :href => "#{info[0]}", :onclick => "#{info[2]}" }
@@ -27,8 +29,7 @@
 				.friend
 					.f_name= name
 					%a{ :target => "_top", :href => "#{info[0]}" }
-						.img-scroll
-							%img{ :alt => "#{name}", :src => "#{info[1]}" }
+						%img{ :alt => "#{name}", :src => "#{info[1]}" }
 
 	.content
 		=yield
