@@ -1,6 +1,6 @@
 module Images
   @@counts = {
-    :profile => 5,
+    :profile => 6,
     :project => 5,
     :blog => 5,
     :random => 5
