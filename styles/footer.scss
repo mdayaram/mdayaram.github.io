@@ -1,0 +1,12 @@
+footer {
+	@include box-shadow(inset 0 1px 10px rgba(0,0,0,.25));
+	font-size: 10px;
+	font-family: sans-serif;
+	background-color: #efefef;
+	border-top: solid 1px rgba(0,0,0,.25);
+	text-align: center;
+	padding: 0px;
+	line-height: 2;
+	clear: both;
+	padding: 10px 0px;
+}
