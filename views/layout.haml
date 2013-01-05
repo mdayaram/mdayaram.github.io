@@ -1,6 +1,7 @@
 %head
 	%title= "Manoj Dayaram"
 	%link{ :rel => "stylesheet", :type => "text/css", :href => "/styles/main.css" }
+	%link{ :href => 'http://fonts.googleapis.com/css?family=Rambla:400', :rel => 'stylesheet', :type => 'text/css' }
 %body
 
 	%header
@@ -12,7 +13,7 @@
 		#profile
 			.img-scroll
 				- get_profile_imgs.each do |url|
-					%img{ :alt => "joob joob joo, wub wub", :src => "#{url}" }
+					%img{ :alt => "jub jub joo, wub wub", :src => "#{url}" }
 		#contact
 			- get_contacts.each do |name, info|
 				%a{ :target => "_top", :href => "#{info[0]}", :onclick => "#{info[2]}" }
