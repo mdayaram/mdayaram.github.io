@@ -1,0 +1,30 @@
+#about {
+	width: $about_width;
+	display: inline-block;
+}
+
+#profile {
+	width: $profile_width;
+	margin-left: auto;
+	margin-right: auto;
+	img {
+		display: inline-block;
+		width: $profile_width;
+		height: $profile_width;
+	}
+}
+
+#contact {
+	width: $contacts_width;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	a { 
+		display: inline-block; 
+		margin: 10px;
+	}
+}
+
+#content {
+	display: inline-block;
+}
