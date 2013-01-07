@@ -3,40 +3,17 @@
 	%link{ :rel => "stylesheet", :type => "text/css", :href => "/styles/main.css" }
 	%link{ :href => 'http://fonts.googleapis.com/css?family=Rambla:400', :rel => 'stylesheet', :type => 'text/css' }
 	%script{ :type => 'text/javascript', :src => 'http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js' }
-	%script{ :type => 'text/javascript', :src => '/scripts/img-scroll.js' }
 
 %body
-	#sink
-		#west-nav
-			#west-nav-wrapper
-				#profile
-					.img-scroll
-						%ul
-							- get_profile_imgs.each do |url|
-								%li
-									%img{ :alt => "jub jub joo, wub wub", :src => "#{url}" }
-				#contact
-					- get_contacts.each do |name, info|
-						%a{ :target => "_top", :href => "#{info[0]}", :title => "#{name}", :onclick => "#{info[2]}" }
-							%img{ :alt => "#{name}", :src => "#{info[1]}" }
-				#friends_title
-					= "FRIENDS"
-				#friends
-					- get_friends.each do |name, info|
-						.friend
-							%a{ :target => "_top", :href => "#{info[0]}", :title => "#{name}" }
-								%img{ :alt => "#{name}", :src => "#{info[1]}" }
+	#all-the-things
+		%header
+			#h_lb [
+			#title Manoj Dayaram
+			#h_rb ]
 
-		#east-nav
-			#east-nav-wrapper
-				%header
-					#h_lb [
-					#title Manoj Dayaram
-					#h_rb ]
+		.content
+			=yield
 
-				.content
-					=yield
-
-	%footer
-		%div= "Yo dawg, I heard yo and yo dawg like footers, so we put a footer in your footer so you can foot your footer, dawg."
-		%div= "Copyright &copy; 2012 Manoj Dayaram. All rights reserved."
+		%footer
+			%div= "Yo dawg, I heard yo and yo dawg like footers, so we put a footer in your footer so you can foot your footer, dawg."
+			%div= "Copyright &copy; 2012 Manoj Dayaram. All rights reserved."

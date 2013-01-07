@@ -5,55 +5,60 @@ body, html {
 	background: #fff;
 }
 
-#sink {
+/** Body/Content **/
+#all-the-things {
 	padding-top: 20px; 
-	display: table;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.section {
+	width: 80%;
+	margin: 40px auto 40px auto;
+}
+
+.section .content {
+	font-family: Helvetica, Arial, san-serif;
+	line-height: 1.7em;
+}
+
+/** Header **/
+header {
+	display: block;
+	position: relative;
 	width: 100%;
+	height: 75px;
+	font-family: Georgia, Times New Roman, serif;
+	font-size: 50px;
 }
 
-#west-nav {
-	display: table-cell;
-	width: $west_width;
-	vertical-align: top;
+#h_lb {
+	float: left;
 }
-#west-nav-wrapper {
-	width: $west_wrapper_width;
-	margin-left: auto;
-	margin-right: auto;
+#h_rb {
+	float: right;
 }
-
-#east-nav {
-	display: table-cell;
-	vertical-align: top;
-}
-#east-nav-wrapper {
-	margin-right: $east_wrapper_pad;
-}
-
-
-#profile {
-	width: $profile_width;
-	height: $profile_width;
-	margin-left: auto;
-	margin-right: auto;
-}
-#profile img {
-	width: $profile_width;
-	height: $profile_width;
-	border-radius: 10px;
-}
-
-
-#contact {
+#title {
 	text-align: center;
+	width: 100%;
+	position: absolute;
 }
 
-#contact a { 
-	display: inline-block; 
-	margin: 10px;
-}
-
-
-.content {
-	display: inline-block;
+/** Footer **/
+footer {
+	@include box-shadow(inset 0 1px 10px rgba(0,0,0,.25));
+	background-color: #efefef;
+	border-top: solid 1px rgba(0,0,0,.25);
+	
+	text-align: center;
+	
+	line-height: 2;
+	font-size: 10px;
+	font-family: sans-serif;
+	
+	clear: both;
+	
+	padding: 10px 0px;
+	margin-top: 30px;
 }
