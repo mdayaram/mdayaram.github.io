@@ -4,6 +4,7 @@ require 'rubygems'
 
 require 'sinatra'
 require 'sinatra/content_for'
+require 'sinatra/multi_route'
 
 # Templating
 require 'haml'
@@ -13,7 +14,8 @@ require 'sass'
 require './helpers/contacts'
 require './helpers/friends'
 require './helpers/styles'
-helpers Contacts, Friends, Styles
+require './helpers/currently'
+helpers Contacts, Friends, Styles, Currently
 
 # Configuration
 set :haml, { :format => :html5 }
@@ -28,9 +30,7 @@ get "/styles/:sheet.css" do |sheet|
 end
 
 # Normal pages
-[ "/", "/index", "/index/", "/index.html"].each do |path|
-  get path do
+get "/", "/index.html" do
     haml :index, :locals => { :page => "index" }
-  end
 end
 
