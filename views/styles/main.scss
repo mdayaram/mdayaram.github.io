@@ -7,6 +7,17 @@ body, html {
 	background: #fff;
 }
 
+a, a:link {
+	color: #008066;
+}
+a:visited {
+	color: #668066;
+}
+a:hover {
+	color: #22a288;
+}
+
+
 /** Header **/
 header {
 	display: block;
