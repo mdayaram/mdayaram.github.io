@@ -2,7 +2,7 @@ require 'yaml'
 
 module Currently
   @@random = YAML.load_file("#{settings.root}/private/currently.yml")
-  @@sleeping = "sleeping, at least trying to"
+  @@sleeping = "sleeping, or at least trying to"
   @@working = "writing software for <a href='https://www.moovweb.com' target='_blank'>moovweb</a>"
 
   @@random << @@sleeping
