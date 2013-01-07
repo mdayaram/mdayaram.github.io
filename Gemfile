@@ -9,3 +9,7 @@ gem 'sinatra-contrib'
 # Formatting engines
 gem 'haml'
 gem 'sass'
+gem 'glorify'
+
+# For fetching github pages and the like
+gem 'httpclient'
