@@ -4,7 +4,6 @@
 .section
 	%p
 		= "Hello there, welcome to my site!  My name is Manoj Dayaram, and I'm probably #{currently_doing?} right now."
-	%p
 
 .section
 	%p
@@ -22,4 +21,13 @@
 		- get_contacts.each do |name, info|
 			%a{ :href => info[0], :title => name }
 				%img{ :src => info[1], :alt => name }
+
+.section
+	%p
+		= "Still looking for more? Well, here's a picture of Beowulf ripping Grendel's arm off."
+	%img{ :src => "/images/beowulf.jpg", :alt => "Nobody messes with Beowulf."}
+	%p
+		= "And that's that..."
+	%img{ :src => "/images/youredone.gif", :alt => "You're done!" }
+
 

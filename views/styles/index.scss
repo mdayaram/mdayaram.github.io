@@ -3,19 +3,27 @@
 .section {
 	width: 80%;
 	margin: 40px auto 40px auto;
-	padding: 30px;
+	padding: 20px;
 	@include background(linear-gradient(top, #fff 0%, #eee 50%, #fff 100%));
-	border-radius: 20px;
+	border-radius: 30px;
 }
 
 .section p {
 	font-family: Helvetica, Arial, san-serif;
 	line-height: 1.7em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.section > img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
 
 #contacts {
 	text-align: center;
-	padding-top: 20px;
+	padding-top: 10px;
 }
 
 #contacts a {
