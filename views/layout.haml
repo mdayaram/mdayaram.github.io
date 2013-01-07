@@ -1,5 +1,10 @@
+// Set some variables that we use everywhere
+// Let the file that is being loaded override them if it wants.
+- @title = "Manoj Dayaram"
+= yield_content :vars
+
 %head
-	%title= "Manoj Dayaram"
+	%title #{@title}
 	%link{ :rel => "stylesheet", :type => "text/css", :href => "/styles/main.css" }
 	- if style_exists? page
 		%link{ :rel => "stylesheet", :type => "text/css", :href => "/styles/#{page}.css" }
@@ -8,7 +13,7 @@
 	#all-the-things
 		%header
 			#h_lb [
-			#title Manoj Dayaram
+			#title #{@title}
 			#h_rb ]
 
 		.content
