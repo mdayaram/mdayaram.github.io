@@ -3,7 +3,10 @@ require 'yaml'
 module Currently
   @@random = YAML.load_file("#{settings.root}/private/currently.yml")
   @@sleeping = "sleeping, at least trying to"
-  @@working = "writing software for <a href='https://www.moovweb.com' target='_blank'>moovweb</a>."
+  @@working = "writing software for <a href='https://www.moovweb.com' target='_blank'>moovweb</a>"
+
+  @@random << @@sleeping
+  @@random << @@working
 
   def currently_doing?
     time = Time.now.utc + Time.zone_offset("PST")
