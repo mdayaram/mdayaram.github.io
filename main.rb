@@ -12,7 +12,8 @@ require 'sass'
 # Helpers
 require './helpers/contacts'
 require './helpers/friends'
-helpers Contacts, Friends
+require './helpers/styles'
+helpers Contacts, Friends, Styles
 
 # Configuration
 set :haml, { :format => :html5 }
@@ -23,7 +24,7 @@ get "/styles/:sheet.css" do |sheet|
   if sheet.nil? or sheet.empty?
     return 404
   end
-  scss "#{sheet}".to_sym, { :charset => "utf-8", :views => "#{settings.root}/styles" }
+  scss "styles/#{sheet}".to_sym, { :charset => "utf-8" }
 end
 
 # Normal pages

@@ -1,26 +1,10 @@
+@import 'bourbon/bourbon';
+
 body, html {
 	padding: 0px;
 	margin: 0px;
 	color: #000;
 	background: #fff;
-}
-
-/** Body/Content **/
-#all-the-things {
-	padding-top: 20px; 
-	max-width: 800px;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.section {
-	width: 80%;
-	margin: 40px auto 40px auto;
-}
-
-.section .content {
-	font-family: Helvetica, Arial, san-serif;
-	line-height: 1.7em;
 }
 
 /** Header **/
@@ -61,4 +45,22 @@ footer {
 	
 	padding: 10px 0px;
 	margin-top: 30px;
+}
+
+/** Body/Content **/
+#all-the-things {
+	padding-top: 20px; 
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.section {
+	width: 80%;
+	margin: 40px auto 40px auto;
+}
+
+.section p {
+	font-family: Helvetica, Arial, san-serif;
+	line-height: 1.7em;
 }

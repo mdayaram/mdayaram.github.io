@@ -1,8 +1,8 @@
 %head
 	%title= "Manoj Dayaram"
 	%link{ :rel => "stylesheet", :type => "text/css", :href => "/styles/main.css" }
-	%link{ :href => 'http://fonts.googleapis.com/css?family=Rambla:400', :rel => 'stylesheet', :type => 'text/css' }
-	%script{ :type => 'text/javascript', :src => 'http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js' }
+	- if style_exists? page
+		%link{ :rel => "stylesheet", :type => "text/css", :href => "/styles/#{page}.css" }
 
 %body
 	#all-the-things
