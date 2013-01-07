@@ -8,7 +8,12 @@
 
 .section
 	%p
-		= "Here is some content for the site, maybe a paragraph, maybe more! who knows?!?!?!?!?  Perhaps a story, or story book, or, i dunno, just typing, type type type.  ok, almost done, mmaybe? yyea"
+		= "Unfortunately, there's not much there, but if you'd like to find out more about me, you can always get in touch with me through other channels."
+	#contacts
+		- get_contacts.each do |name, info|
+			%a{ :href => info[0], :title => name }
+				%img{ :src => info[1], :alt => name }
+
 .section
 	%p
 		= "Here is some content for the site, maybe a paragraph, maybe more! who knows?!?!?!?!?  Perhaps a story, or story book, or, i dunno, just typing, type type type.  ok, almost done, mmaybe? yyea"
