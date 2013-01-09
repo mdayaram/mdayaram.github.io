@@ -2,6 +2,7 @@
 // Let the file that is being loaded override them if it wants.
 - @title = "Manoj Dayaram"
 - @stylesheets = ["/styles/main.css"]
+- @scripts = ["/scripts/main.js"]
 = yield_content :vars
 
 %head
@@ -10,7 +11,7 @@
 		%link{ :rel => "stylesheet", :type => "text/css", :href => "#{s}" }
 	- if style_exists? page
 		%link{ :rel => "stylesheet", :type => "text/css", :href => "/styles/#{page}.css" }
-	- 
+
 %body
 	#all-the-things
 		%header
@@ -24,3 +25,8 @@
 		%footer
 			%div= "Yo dawg, I heard yo and yo dawg like footers, so we put a footer in your footer so you can foot your footer, dawg."
 			%div= "Copyright &copy; 2012 Manoj Dayaram. All rights reserved."
+
+- @scripts.each do |s|
+	%script{ :type => "text/javascript", :src => "#{s}" }
+- if script_exists? page
+	%script{ :type => "text/javascript", :src => "/scripts/#{page}.js" }

@@ -2,32 +2,43 @@
 	- @title = "Manoj Dayaram"
 
 .section
-	%p
-		= "Hello there, welcome to my site!  My name is Manoj Dayaram, and I'm probably #{currently_doing?} right now."
+	:markdown
+		Hello there, welcome to my site!  My name is Manoj Dayaram,
+		and I'm probably #{currently_doing?} right now.
 
 .section
-	%p
-		= "If you came here to find out what I like, well then, I like fruit parfaits, <a href='/hugs.html'>hugs</a>, tea, pocket watches, puppies, kittens, <a href='http://mlp.wikia.com/wiki/My_Little_Pony_Friendship_is_Magic_Wiki'>ponies</a>, top hats, monocles, half-belts, gloves, alpacas, and <a href='http://blog.noj.cc/tagged/sketch'>drawing</a>.  I would also like doing handstands if I could do them *shakes fist* and I would also like to travel more."
+	:markdown
+		If you came here to find out what I like, well then, I like fruit
+		parfaits, [hugs](/hugs.html), tea, pocket watches, puppies, kittens,
+		[ponies](http://mlp.wikia.com/wiki/My_Little_Pony_Friendship_is_Magic_Wiki),
+		top hats, monocles, half-belts, gloves, alpacas, and
+		[drawing](http://blog.noj.cc/tagged/sketch).  I would also like doing
+		handstands if I could do them *shakes fist* and I would also like to
+		travel more.
 
 .section
-	%p
-		= "I will occasionally write <a href='http://blog.noj.cc'>random musings</a> about life and such whenever I get the time or have a good idea.  It's mostly brain dump for me, but perhaps it is of interest to you."
-
+	:markdown
+		I will occasionally write [random musings](http://blog.noj.cc) about life
+		and such whenever I get the time or have a good idea.  It's mostly brain
+		dump for me, but perhaps it is of interest to you.
 
 .section
-	%p
-		= "Unfortunately, there's not much else here, but if you'd like to find out more about me, you can always get in touch with me through other channels."
+	:markdown
+		Unfortunately, there's not much else here, but if you'd like to find out
+		more about me, you can always get in touch with me through other channels.
 	#contacts
 		- get_contacts.each do |name, info|
 			%a{ :href => info[0], :title => name }
 				%img{ :src => info[1], :alt => name }
 
 .section
-	%p
-		= "Still looking for more? Well, here's a picture of Beowulf ripping Grendel's arm off."
-	%img{ :src => "/images/beowulf.jpg", :alt => "Nobody messes with Beowulf."}
-	%p
-		= "And that's that..."
-	%img{ :src => "/images/youredone.gif", :alt => "You're done!" }
+	:markdown
+		Still looking for more? Well, here's a picture of Beowulf ripping
+		Grendel's arm off.
 
+		![Nobody messes with Beowulf.](/images/beowulf.jpg)
+
+		And that's that...
+
+		![You're done!](/images/youredone.gif)
 

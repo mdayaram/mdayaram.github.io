@@ -2,21 +2,28 @@
 
 require 'rubygems'
 
-require 'sinatra'
-require 'sinatra/content_for'
-require 'sinatra/multi_route'
-
 # Templating
 require 'haml'
 require 'sass'
 require 'glorify'
 
+# Special templating for markdown in haml layout
+require './renderers/haml_markdown'
+
+# Server and server plugins
+require 'sinatra'
+require 'sinatra/content_for'
+require 'sinatra/multi_route'
+
+# Misc gems used for personal stuff.
+require 'httpclient'
+
 # Helpers
 require './helpers/contacts'
 require './helpers/friends'
-require './helpers/styles'
+require './helpers/layout'
 require './helpers/currently'
-helpers Contacts, Friends, Styles, Currently
+helpers Contacts, Friends, Layout, Currently
 
 # Configuration
 set :haml, { :format => :html5 }
@@ -36,7 +43,6 @@ get "/", "/index.html" do
     haml :index, :locals => { :page => "index" }
 end
 
-require 'httpclient'
 get "/everybody-hurts.html", "/hugs.html" do
   hugs_page = "https://raw.github.com/mdayaram/everybodyhurts/master/README.md"
   # Remove the top two lines since they just repeat the title.
