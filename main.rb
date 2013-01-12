@@ -41,7 +41,11 @@ get "/", "/index.html" do
   haml :index, :locals => { :page => "index" }
 end
 
-get "/everybody-hurts.html", "/hugs.html" do
-  github_markdown :everybodyhurts, "README.md"
+get "/p", "/p/", "/p/index.html" do
+  "Projects page!"
+end
+
+get "/p/*" do
+  github_markdown params[:splat][0]
 end
 
