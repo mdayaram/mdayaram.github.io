@@ -42,7 +42,7 @@ get "/", "/index.html" do
 end
 
 get "/p", "/p/", "/p/index.html" do
-  "Projects page!"
+  redirect to('/')
 end
 
 get "/p/*" do
