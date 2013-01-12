@@ -23,8 +23,10 @@
 			=yield
 
 		%footer
-			%div= "Yo dawg, I heard yo and yo dawg like footers, so we put a footer in your footer so you can foot your footer, dawg."
-			%div= "Copyright &copy; 2012 Manoj Dayaram. All rights reserved."
+			:markdown
+				Copyright &copy; 2012 Manoj Dayaram. Most styles shamelessly stolen
+				from [Github](https://github.com).  
+				That's right, I said *most*, I wrote some of it myself...I swear!
 
 - @scripts.each do |s|
 	%script{ :type => "text/javascript", :src => "#{s}" }
