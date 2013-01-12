@@ -6,7 +6,7 @@ module Github
     project, path = path.split('/', 2)
     path = "README.md" if path.nil? or path.empty?
     page = "https://raw.github.com/#{account}/#{project}/#{branch}/#{path}"
-    HTTPClient.new.get_content(page)
+    fix_links(HTTPClient.new.get_content(page), account)
   end
 
   def github_markdown(path, branch="master", account="mdayaram")
@@ -19,5 +19,10 @@ module Github
         }
   end
 
+  private
+
+  def fix_links(content, account="mdayaram")
+    content.gsub(/\[(.*?)\]\(https:\/\/github\.com\/#{account}\/(.*?)\/blob\/.*?\/(.*?\.md)\)/, '[\1](/p/\2/\3)')
+  end
 end
 
