@@ -11,6 +11,7 @@ http://noj.cc
 	* Gitsy when that's done?
 	* Phoenix f1? http://sub.gmnews.com/news/2005-08-25/Business/
 	* JSCE when that's done.
+	* Headerecho and Argos
 * Centering seems to be off for some of the images in the beginning/final proposals for graph animator.
 * Twitterstream?
 * Facebookstream?
