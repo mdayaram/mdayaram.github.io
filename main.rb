@@ -49,7 +49,7 @@ get "/p/*" do
   github_markdown params[:splat][0]
 end
 
-get "/noproxy.txt" do
-  "DISALLOW"
-end
+#get "/noproxy.txt" do
+#  "DISALLOW"
+#end
 
