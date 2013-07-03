@@ -50,6 +50,6 @@ get "/p/*" do
 end
 
 get "/noproxy.txt" do
-  "Leave Brittany alone!"
+  "DISALLOW"
 end
 
