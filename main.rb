@@ -49,6 +49,11 @@ get "/p/*" do
   github_markdown params[:splat][0]
 end
 
+DROPBOX_PREFIX="https://dl.dropboxusercontent.com/u/9921601"
+get "/dp/*" do
+  redirect to(DROPBOX_PREFIX + "/" + params[:splat][0])
+end
+
 #get "/noproxy.txt" do
 #  "DISALLOW"
 #end
