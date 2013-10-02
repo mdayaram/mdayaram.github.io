@@ -50,7 +50,7 @@ get "/p/*" do
 end
 
 DROPBOX_PREFIX="https://dl.dropboxusercontent.com/u/9921601"
-get "/dp/*" do
+get "/db/*" do
   redirect to(DROPBOX_PREFIX + "/" + params[:splat][0])
 end
 
