@@ -10,7 +10,7 @@ module Currently
 
   def currently_doing?
     time = Time.now.utc + Time.zone_offset("PST")
-    if 3 <= time.hour and time.hour <= 8
+    if 3 <= time.hour and time.hour < 8
       return @@sleeping
     elsif 1 <= time.wday and time.wday <= 5 and 10 <= time.hour and time.hour < 20
       return @@working
