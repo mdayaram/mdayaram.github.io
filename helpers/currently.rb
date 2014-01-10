@@ -14,9 +14,7 @@ module Currently
       return @@sleeping
     elsif 1 <= time.wday and time.wday <= 5 and 10 <= time.hour and time.hour <= 20
       return @@working
-    else
-      return @@random.sample
     end
-    @@contacts
+    return @@random.sample
   end
 end
