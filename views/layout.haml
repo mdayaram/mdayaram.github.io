@@ -11,6 +11,14 @@
 		%link{ :rel => "stylesheet", :type => "text/css", :href => "#{s}" }
 	- if style_exists? page
 		%link{ :rel => "stylesheet", :type => "text/css", :href => "/styles/#{page}.css" }
+	:javascript
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-48761295-1', 'noj.cc');
+		ga('send', 'pageview');
 
 %body
 	#all-the-things
@@ -30,5 +38,5 @@
 
 - @scripts.each do |s|
 	%script{ :type => "text/javascript", :src => "#{s}" }
-- if script_exists? page
-	%script{ :type => "text/javascript", :src => "/scripts/#{page}.js" }
+		- if script_exists? page
+			%script{ :type => "text/javascript", :src => "/scripts/#{page}.js" }
