@@ -4,7 +4,7 @@
 //
 
 // Colors
-$blue: #4183C4; 
+$blue: #4183C4;
 
 // Grays
 $black: #000;
@@ -23,5 +23,5 @@ $georgia: Georgia, serif;
 @mixin mobile {
   @media screen and (max-width: 640px) {
     @content;
-  }
+}
 }
