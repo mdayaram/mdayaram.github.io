@@ -17,23 +17,25 @@ avatar: https://avatars2.githubusercontent.com/u/1046738
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: 
-  email: 
-  facebook: 
-  flickr: 
-  github: barryclark/jekyll-now
-  instagram: 
-  linkedin: 
-  pinterest: 
+  email: m@noj.cc
+  facebook: mdayaram
+  github: mdayaram
+  instagram: yedgyz
+  linkedin: mdayaram
+  pinterest: mdayaram
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: _noj_
+  stackoverflow: users/445013/noj # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  google: ManojDayaram1
+  pinterest: mdayaram
+  kitty: http://3.bp.blogspot.com/_ckBlasgNSzg/SjVpbeYKTdI/AAAAAAAAMrk/t_BbIe26CSs/s1600/You%27ve+Got+Mail.jpg
+  smoke: https://en.wikipedia.org/wiki/Smoke_signal
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: yedgyz
+disqus: nojblog
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 
+google_analytics: UA-48761295-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
