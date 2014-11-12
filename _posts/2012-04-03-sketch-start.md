@@ -6,8 +6,8 @@ tags:
 - sketch
 tumblr_url: http://blog.noj.cc/post/20613982799/im-starting-a-sketch-a-day-journal-its-only
 ---
-![]('/images/sketches/james-sketch.jpg')
-![]('/images/sketches/james-photo.jpg')
+![](/images/sketches/james-sketch.jpg)
+![](/images/sketches/james-photo.jpg)
 
 I’m starting a sketch-a-day journal.  It’s only been like four days and I already fell off the bandwagon with only two sketches, which is fine.  As long as I can go at least a sketch a week, I feel accomplished.
 
