@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketch-a-Day #4 Dog Park
+title: Sketch-a-Day &#35;4 Dog Park
 date: '2012-04-21T00:00:00-04:00'
 tags:
 - sketch

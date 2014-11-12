@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketch-a-Day #16 Molly's Fairy
+title: Sketch-a-Day &#35;16 Molly's Fairy
 date: '2013-06-18T21:43:11-04:00'
 tags:
 - sketch

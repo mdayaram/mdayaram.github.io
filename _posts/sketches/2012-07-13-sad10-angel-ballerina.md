@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketch-a-Day #10 Angel Ballerina
+title: Sketch-a-Day &#35;10 Angel Ballerina
 date: '2012-07-13T13:32:55-04:00'
 tags:
 - sketch

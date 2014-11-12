@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketch-a-Day #6 Karen Hair
+title: Sketch-a-Day &#35;6 Karen Hair
 date: '2012-05-19T17:09:21-04:00'
 tags:
 - sketch

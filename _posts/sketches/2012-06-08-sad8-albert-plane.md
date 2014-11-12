@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketch-a-Day #8 Albert Plane
+title: Sketch-a-Day &#35;8 Albert Plane
 date: '2012-06-08T00:00:00-04:00'
 tags:
 - sketch

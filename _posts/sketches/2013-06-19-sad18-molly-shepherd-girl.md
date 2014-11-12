@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketch-a-Day #18 Molly's Shepherd Girl
+title: Sketch-a-Day &#35;18 Molly's Shepherd Girl
 date: '2013-06-19T09:27:19-04:00'
 tags:
 - sketch

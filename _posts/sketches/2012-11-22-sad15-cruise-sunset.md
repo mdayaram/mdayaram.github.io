@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketch-a-Day #15 Cruise Sunset
+title: Sketch-a-Day &#35;15 Cruise Sunset
 date: '2012-11-22T13:45:13-05:00'
 tags:
 - sketch
