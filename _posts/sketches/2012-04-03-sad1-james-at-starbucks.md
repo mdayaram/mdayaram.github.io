@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skecth-a-Day #1 James at Starbucks
+title: Skecth-a-Day &#35;1 James at Starbucks
 date: '2012-04-03T14:00:00-04:00'
 tags:
 - sketch
