@@ -122,7 +122,7 @@ However, this wasn’t really meant as a solution to a problem, but rather, an e
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/QDw0JtwQU8A"
 frameborder="0" allowfullscreen></iframe>
-> Do try this at home, though: https://www.youtube.com/watch?v=QDw0JtwQU8A
+> Do try this at home, though.
 
 [The Street Store](http://thestreetstore.org/) is a wonderful concept which brings back dignity to those in need. Ideas like these are rare, but not impossible to come by. Best of all, they’re just that much more satisfying.
 
