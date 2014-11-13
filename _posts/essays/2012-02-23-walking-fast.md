@@ -3,9 +3,7 @@ layout: post
 title: I walked to the Caltrain.
 date: '2012-02-23T00:16:08-05:00'
 tags:
-- story
-- walking
-tumblr_url: http://blog.noj.cc/post/20536138160/walking-fast
+- essay
 ---
 Walking relatively fast towards the caltrain station, met a fellow fast paced walker. At first we kept pretty good pace with each other, but then we hit a barrier. A group of middle aged ladies came out of Whole Foods and walked slowly in front of us, they took up the entire sidewalk. Not being in a rush, I adjusted my pace accordingly, however, my fellow fast-pacer could not stand for such bottleneck.
 
