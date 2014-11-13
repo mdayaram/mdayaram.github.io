@@ -31,21 +31,24 @@ But my goal wasn’t to mimic human emotion within source code, it was to inspir
 
 One of the sentiments I keep running into is that source code itself cannot be art because most people don’t understand it. Software and technology most certainly can be used to create art. [CODAME](http://www.codame.com/) and [this musician](https://www.youtube.com/watch?v=yY1FSsUV-8c) are great examples of that. Their program’s output creates a thing which can be interpreted by anyone; music, a game, or a portrait — these things are universally understood.
 
-![](/images/essays/software-art2.jpg)  
+![](/images/essays/software-art2.jpg)
+
 > Animation created by VJ program [gifSlap](http://www.codame.com/post/portfolio/gifslap/). Photo by [Worth Freeman](https://twitter.com/worth6).
 
 But poetry is undoubtedly considered art even though it must be written down in a particular language. Would someone object that poetry written in [Balochi](http://en.wikipedia.org/wiki/Balochi_language) cannot be considered to be poetry because Balochi as a language is not widely understood?
 
 Regardless, I understand the struggle that people go through with this. I set out to see if I could create a relatively easy, artistic programming language for people to understand. Instead of doing that, however, I found this beautiful programming language called [Piet](http://www.dangermouse.net/esoteric/piet.html) created by [David Morgan-Mar](http://www.dangermouse.net/).
 
-![](/images/essays/software-art3.gif)  
+![](/images/essays/software-art3.gif)
+
 > Reminiscent of my MS Paint days <3
 
 The above image is the source code in the programming language Piet that solves the [Tower of Hanoi](http://en.wikipedia.org/wiki/Tower_of_Hanoi) problem. That’s right, the source code for the programming language Piet *is an image*.
 
 Here is the source code/image for a Piet program that outputs the word “Piet” on the screen.
 
-![](/images/essays/software-art4.gif)  
+![](/images/essays/software-art4.gif)
+
 > Hmmm, [looks a little familiar](http://en.wikipedia.org/wiki/Piet_Mondrian).
 
 One could say that Piet does a great job at exemplifying how artistic source code can get. However, there’s a problem with this: It gives the illusion of understanding. It’s like listening to [a song in French even though you don’t know what the lyrics are saying](https://www.youtube.com/watch?v=EyARHscb8mU) because you enjoy the part you do understand: the music. Piet gives you a new dynamic of source code that you can appreciate even if you don’t understand how computer instructions work.
@@ -56,7 +59,8 @@ There is a [quine-relay](https://github.com/mame/quine-relay) program which, w
 
 Likewise, there are quines which take advantage of the ASCII nature of source code to simulate an [ASCII art animation](http://mamememo.blogspot.com/2010/09/qlobe.html) where every step requires you to run the output of the previous program.
 
-![](/images/essays/software-art5.gif)  
+![](/images/essays/software-art5.gif)
+
 > You can see the instructions used in the terminal at the top to run the program and its output, its output, its output's output, and so on.
 
 Writing quines and their variations are definitely an exploration in creativity and imagination in a world of many constraints to yield an output which is most certainly aesthetic and conducive to some human interaction. That, in it of itself, is most certainly artistic.
@@ -68,14 +72,16 @@ However, the artistic appreciation of Piet and quines are not tightly tied to th
 
 Social commentary is an interesting topic because it is very often used as a sufficient but not necessary attribute for declaring things to be art. The implications behind this is that a poetic or artistic work can offer some sort of commentary on a heavy issue [dealing with ethics, politics, or some sort of meaning](http://plato.stanford.edu/entries/art-definition/). This meaning, of course, is heavily contextualized in the world the artist is commenting on. One particular cartoonist that comes to mind who exemplifies this beautifully is [Pawel Kuczynski](http://www.pawelkuczynski.com/Prace/Cartoons/index.php).
 
-![](/images/essays/software-art6.png)  
+![](/images/essays/software-art6.png)
+
 > Do you have enough context to understand this cartoon?
 
 His works are thought provoking, commenting on social paradigms that envelops our world which are all too eerily familiar.
 
 As for source code? Well, something similar comes to mind as well. The [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) project started by Mikael Kragbæk and in collaboration with many others.
 
-![](/images/essays/software-art7.png)  
+![](/images/essays/software-art7.png)
+
 > The Main.java file in the massive FizzBuzzEnterpriseEdition repository.
 
 Do you feel anything when looking at this? I certainly do. I feel amused, depressed, nostalgic and yet, affirmed. Honestly, it gives me an emotional roller coaster of feels, and depending on what your experience is with enterprise software, you will get different feelings.
@@ -103,7 +109,8 @@ I love seeing source code such as FizzBuzzEnterpriseEdition in the world as soci
 
 However, on a day to day basis as a software engineer by trade, I can’t present a view of my source code that weighs heavy in social commentary. Instead, I pay great attention to detail on the story that I have to convey. Though I know a computer can understand [even the most esoteric](http://www.ioccc.org/) of stories, I try not to write mine simply for the computer. There is little joy in making art for a critic whose only opinions are “passed” or “failed.” Instead, I write for people. I write source code so that other people are able to read, interpret, judge, and critique it.
 
-![](/images/essays/software-art8.png)  
+![](/images/essays/software-art8.png)
+
 > The source code for two programs written in C. Both drastically different, but both only output "Hello World" to the screen.
 
 Much like [nail art](https://www.youtube.com/watch?v=DaYfonm51Lo), the idea expressed by artistic code is the intention of writing code for another human being to read. A craft, elevated to an art simply because I care just as much, if not, more about it’s interpretation by another human being than the output of it’s interpretation by a machine (which is easily satisfied by comparison).
