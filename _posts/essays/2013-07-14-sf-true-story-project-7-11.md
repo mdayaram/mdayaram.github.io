@@ -5,6 +5,7 @@ date: '2013-07-14T22:51:00-04:00'
 tags:
 - essay
 ---
+
 Original post can be found in
 [sftruestoryproject](http://sftruestoryproject.tumblr.com/post/55483414885/transcription-i-hadnt-been-to-a-7-11-for-the):
 
