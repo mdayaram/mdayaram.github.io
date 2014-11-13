@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SF True Story Project: 7/11
+title: SF True Story Project: 7-11
 date: '2013-07-14T22:51:00-04:00'
 tags:
 - essay
