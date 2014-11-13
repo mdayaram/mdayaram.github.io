@@ -17,7 +17,7 @@ But why does the buck stop there?  Why do I like the attention people give me w
 
 So why do we like, or dislike certain things?  Why do we really like certain sounds, tastes, and feelings? Why do we like, or even love certain people?  Could you accurately describe the reasons why you like your significant other?
 
-I’m no biochemist, but at this point, I feel like that is the domain we enter through.  For some reason or another, the stimuli that you adore or hate is causing some kind of chemical reaction to take place in your brain, perhaps your entire body.  Whatever reactions take place will dictate whether you feel good or bad about whatever just happened, and after enough times of it happening, you will develop some sense of like or dislike towards the given stimuli(1).
+I’m no biochemist, but at this point, I feel like that is the domain we enter through.  For some reason or another, the stimuli that you adore or hate is causing some kind of chemical reaction to take place in your brain, perhaps your entire body.  Whatever reactions take place will dictate whether you feel good or bad about whatever just happened, and after enough times of it happening, you will develop some sense of like or dislike towards the given stimuli[<sup>1</sup>](#footnotes).
 
 So what does that say about our different likes and dislikes?  Is your love for chocolate equated to simply the chemicals that are released after you eat it?  Is your love for a person equated to simply the chemical reactions that take place in your brain when you’re around them?  One interesting thing that I’d like to propose is that regardless of what the equation is, you could almost always take the stimuli out of the picture and still be able to sustain the same feeling through other means.  In other words, it’s almost as if you have a choice of what you get to like and dislike as long as you are able to manipulate the chemical reactions happening in your brain, or at least trick your brain into thinking something is interesting enough times to develop a liking to it.
 
@@ -37,6 +37,7 @@ So what’s the solution then?  Just pick something and go?  But how do you kn
 
 Well, certainly not umbrellas, that’s for sure.
 
+---
 
-———
+<a name="footnotes"></a>
 1. Again, I’m not biochemist, so all of this is pure contemplation on my part.  I’d be totally excited about talking to a real biochemist about this though, so if you’re one, and you’d like to chat, drop me an email.
