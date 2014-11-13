@@ -7,4 +7,4 @@ tags:
 ---
 ![](/images/sketches/sad20-dandelion-ceiling.jpg)
 
-Me and Molly went to Dandelion Chocolate today.  The place has some pretty cool and intricate architecture.  This is my inaccurate representation of their roof from where I was sitting.
+Me and Molly went to [Dandelion Chocolate](http://www.dandelionchocolate.com/) today.  The place has some pretty cool and intricate architecture.  This is my inaccurate representation of their roof from where I was sitting.
