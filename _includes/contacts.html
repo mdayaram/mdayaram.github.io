@@ -1,4 +1,5 @@
 {% for contact in site.contact-links %}
+<div class="contact">
   {% if contact[1].size < 3 %}
   <a title="{{ contact[0] }}" href="{{ contact[1][0] }}">
   {% else %}
@@ -6,4 +7,5 @@
   {% endif %}
     <img alt="{{ contact[0] }}" src="{{ contact[1][1] }}">
   </a>
+</div>
 {% endfor %}
