@@ -8,7 +8,7 @@ tags:
 
 ![](/images/essays/discomfort.jpg)
 
-## An exploration of humanity in the streets of San Francisco.
+An exploration of humanity in the streets of San Francisco.
 
 First, a series of stories. Let’s try to go through them chronologically.
 
