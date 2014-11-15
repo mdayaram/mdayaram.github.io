@@ -23,5 +23,5 @@ $georgia: Georgia, serif;
 @mixin mobile {
   @media screen and (max-width: 640px) {
     @content;
-}
+  }
 }
