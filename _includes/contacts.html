@@ -1,0 +1,9 @@
+{% for contact in site.contact-links %}
+  {% if contact.size < 4 %}
+  <a title="{{ contact[0] }}" href="{{ contact[1] }}">
+  {% else %}
+  <a title="{{ contact[0] }}" href="{{ contact[1] }}" onclick="{{ contact[3] }}">
+  {% endif %}
+    <img alt="{{ contact[0] }}" src="{{ contact[2] }}">
+  </a>
+{% endfor %}

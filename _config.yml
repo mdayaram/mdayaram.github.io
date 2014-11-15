@@ -16,20 +16,38 @@ avatar: https://avatars2.githubusercontent.com/u/1046738
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
-  email: m@noj.cc
-  facebook: mdayaram
-  github: mdayaram
-  instagram: yedgyz
-  linkedin: mdayaram
-  pinterest: mdayaram
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: _noj_
-  stackoverflow: users/445013/noj # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  google: ManojDayaram1
-  pinterest: mdayaram
-  kitty: http://3.bp.blogspot.com/_ckBlasgNSzg/SjVpbeYKTdI/AAAAAAAAMrk/t_BbIe26CSs/s1600/You%27ve+Got+Mail.jpg
-  smoke: https://en.wikipedia.org/wiki/Smoke_signal
+contact-links:
+  Facebook:
+    - https://www.facebook.com/mdayaram
+    - /images/c/facebook.png
+  Twitter:
+    - https://www.twitter.com/_noj_
+    - /images/c/twitter.png
+  Google Plus:
+    - https://plus.google.com/+ManojDayaram1/
+    - /images/c/gplus.png
+  LinkedIn:
+    - https://www.linkedin.com/in/mdayaram
+    - /images/c/linkedin.png
+  Pinterest:
+    - https://pinterest.com/mdayaram
+    - /images/c/pinterest.png
+  Github:
+    - https://github.com/mdayaram
+    - /images/c/github.png
+  Email:
+    - https://www.google.com/recaptcha/mailhide/d?k=01vKBXg12XP9GeR5bxrmga_w==&amp;c=rZBSr-L6v-4LgCyK8GcSBw==
+    - /images/c/email.png
+    - window.open('https://www.google.com/recaptcha/mailhide/d?k\07501vKBXg12XP9GeR5bxrmga_w\75\75\46c\75rZBSr-L6v-4LgCyK8GcSBw\75\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;
+  Kitty Messenger Services:
+    - http://3.bp.blogspot.com/_ckBlasgNSzg/SjVpbeYKTdI/AAAAAAAAMrk/t_BbIe26CSs/s1600/You%27ve+Got+Mail.jpg
+    - /images/c/kitty.png
+  Smoke Signals:
+    - https://en.wikipedia.org/wiki/Smoke_signal
+    - /images/c/smoke.png
+  RSS Feed:
+    - feed.xml
+    - /images/c/rss.png
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: nojblog
@@ -72,3 +90,4 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+    - _private
