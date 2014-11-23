@@ -4,8 +4,6 @@ title: Manoj Dayaram
 permalink: /
 ---
 
-# [      Manoj Dayaram      ]
-
 <p id="currently"></p>
 
 If you came here to find out what I like, well then, I like fire,
@@ -33,7 +31,17 @@ more about me or want to get in touch with me to tell me you like something,
 completely disagree, or simply want to be vocal, you can always reach me
 through these channels.
 
-<p id="contacts"></p>
+<p id="contacts">
+{% for contact in site.contact-links %}
+	{% if contact[1].size < 3 %}
+	<a class="contact" title="{{ contact[0] }}" href="{{ contact[1][0] }}">
+	{% else %}
+	<a title="{{ contact[0] }}" href="{{ contact[1][0] }}" onclick="{{ contact[1][2] }}">
+	{% endif %}
+		<img alt="{{ contact[0] }}" src="{{ contact[1][1] }}">
+	</a>
+{% endfor %}
+</p>
 
 Thanks for stopping by!  Due to the nature of our meeting, we will have to
 settle for virtual hugs for now, but looking forward to hug you for real
