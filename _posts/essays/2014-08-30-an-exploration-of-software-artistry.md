@@ -33,7 +33,7 @@ One of the sentiments I keep running into is that source code itself cannot be a
 
 <figure>
 <img src="/images/essays/software-art2.jpg">
-<figcaption>Animation created by VJ program [gifSlap](http://www.codame.com/post/portfolio/gifslap/). Photo by [Worth Freeman](https://twitter.com/worth6).</figcaption>
+<figcaption>Animation created by VJ program <a href="http://www.codame.com/post/portfolio/gifslap/">gifSlap</a>. Photo by <a href="https://twitter.com/worth6">Worth Freeman</a>.</figcaption>
 </figure>
 
 But poetry is undoubtedly considered art even though it must be written down in a particular language. Would someone object that poetry written in [Balochi](http://en.wikipedia.org/wiki/Balochi_language) cannot be considered to be poetry because Balochi as a language is not widely understood?
@@ -51,7 +51,7 @@ Here is the source code/image for a Piet program that outputs the word “Piet�
 
 <figure>
 <img src="/images/essays/software-art4.gif">
-<figcaption>Hmmm, [looks a little familiar](http://en.wikipedia.org/wiki/Piet_Mondrian).</figcaption>
+<figcaption>Hmmm, <a href="http://en.wikipedia.org/wiki/Piet_Mondrian">looks a little familiar</a>.</figcaption>
 </figure>
 
 One could say that Piet does a great job at exemplifying how artistic source code can get. However, there’s a problem with this: It gives the illusion of understanding. It’s like listening to [a song in French even though you don’t know what the lyrics are saying](https://www.youtube.com/watch?v=EyARHscb8mU) because you enjoy the part you do understand: the music. Piet gives you a new dynamic of source code that you can appreciate even if you don’t understand how computer instructions work.
