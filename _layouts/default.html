@@ -23,15 +23,7 @@
   </head>
 
   <body>
-    <div id="all-the-things">
-
-      {{ content }}
-
-      <footer class="footer">
-        <div>Copyright &copy; 2012 Manoj Dayaram.</div>
-        <div>Actually, that's a lie, I have no idea what it takes to copyright something.</div>
-      </footer>
-    </div>
+    {{ content }}
     {% if page.js %}
     <script language="javascript" type="text/javascript" src="{{ page.js }}"></script>
     {% endif %}
