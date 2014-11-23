@@ -1,7 +1,42 @@
 ---
 layout: default
-title: Hi, friend!
+title: Manoj Dayaram
 permalink: /
 ---
 
-Hi!
+# [      Manoj Dayaram      ]
+
+<p id="currently"></p>
+
+If you came here to find out what I like, well then, I like fire,
+fruit parfaits, [hugs](/p/everybodyhurts), tea, computer science
+education, [pocket watches](http://www.iwcpocketwatch.com/),
+puppies, [kittens](http://www.lolcats.com),
+[ponies](http://mlp.wikia.com),
+top hats, monocles,
+[spoons](https://medium.com/@_noj_/the-ultimate-eating-utensil-33831153972f),
+half-belts, [nail art](https://www.youtube.com/watch?v=DaYfonm51Lo),
+gloves, alpacas (not llamas!), [chocolate](http://www.dandelionchocolate.com/),
+grilled cheese, [juggling diabolo](/images/manoj_diabolo.gif),
+port, moscato,
+[chartreuse](http://www.chartreuse.fr/green-chartreuse;fiche;3;uk.html),
+[b&amp;b](http://www.bandbliqueur.com/), magic, and
+[drawing](http://blog.noj.cc/tagged/sketch).  If you know I like
+something that's not on this list, then I probably either missed
+it, or I lied to you.
+
+I will occasionally write [random musings](/blog) about life
+and such whenever I get the time or have a good idea.
+
+Unfortunately, there's not much else here, but if you'd like to find out
+more about me or want to get in touch with me to tell me you like something,
+completely disagree, or simply want to be vocal, you can always reach me
+through these channels.
+
+<p id="contacts"></p>
+
+Thanks for stopping by!  Due to the nature of our meeting, we will have to
+settle for virtual hugs for now, but looking forward to hug you for real
+soon!
+
+![&lt;3](/images/virtual-hug.gif "&lt;3")
