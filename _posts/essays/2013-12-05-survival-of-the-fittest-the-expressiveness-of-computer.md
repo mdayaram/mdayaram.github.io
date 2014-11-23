@@ -2,7 +2,7 @@
 layout: post
 title: Survival of the Fittest
 subtitle: The Expressiveness of Computer Languages
-cover: url('/images/essays/survival1.png')
+cover: /images/essays/survival1.png
 date: '2013-12-05T21:17:00-05:00'
 tags:
 - essay

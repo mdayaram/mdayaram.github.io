@@ -4,9 +4,9 @@ css: /styles/post.css
 ---
 
 {% if page.cover %}
-<header style="background: {{ page.cover }}">
+<header style="background-image: url('{{ page.cover }}')">
 {% else %}
-<header>
+<header class="no-cover">
 {% endif %}
   <div class="header-mask">
     <div class="title">

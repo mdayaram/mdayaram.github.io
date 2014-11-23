@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I Hate Umbrellas
-cover: url('/images/essays/i-hate-umbrellas.jpg')
+cover: /images/essays/i-hate-umbrellas.jpg
 date: '2012-07-08T16:10:00-04:00'
 tags:
 - essay

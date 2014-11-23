@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I am Imperfect, and that's Not ok.
-cover: url('/images/essays/imperfect.jpg')
+cover: /images/essays/imperfect.jpg
 date: '2013-06-20T01:51:00-04:00'
 tags:
 - essay

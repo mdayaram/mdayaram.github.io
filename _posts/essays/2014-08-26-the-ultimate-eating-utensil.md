@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ultimate Eating Utensil
-cover: url('/images/essays/spoons.jpg')
+cover: /images/essays/spoons.jpg
 date: '2014-08-26T19:44:00-04:00'
 tags:
 - essay

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I Found a Cow
-cover: url('/images/essays/cow.jpg')
+cover: /images/essays/cow.jpg
 date: '2013-12-29T17:22:00-05:00'
 tags:
 - essay

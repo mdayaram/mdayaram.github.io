@@ -2,7 +2,7 @@
 layout: post
 title: Don't Ignore the Discomfort
 subtitle: An exploration of humanity in the streets of San Francisco.
-cover: url('/images/essays/discomfort.jpg')
+cover: /images/essays/discomfort.jpg
 date: '2014-09-11T10:23:00-04:00'
 tags:
 - essay
