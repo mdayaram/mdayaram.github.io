@@ -1,6 +1,7 @@
 ---
 layout: post
 title: This is Halloween.
+cover: url('/images/essays/halloween7.jpg')
 date: '2013-11-17T23:20:00-05:00'
 tags:
 - essay
@@ -24,40 +25,47 @@ For those of you who don’t know what Post Secret is, it is “an ongoing comm
 
 So what does that mean in terms of a costume?  I decided to wear mostly black and carry fabric markers with me asking people to write their secrets or confessions onto my clothes.  I quickly bought some pants and a shirt from a thrift shop as well as suspenders and a tie.  I decided to use my fedora as a sign post to give people a clue as to what I was.  My costume was complete, or rather, more like “ready.”
 
-![](/images/essays/halloween1.jpg)
+<figure>
+<img src="/images/essays/halloween1.jpg">
+</figure>
 
 Since Halloween fell on a Thursday this year, there were parties and events going on both the weekend prior and the weekend after.  I decided to wear my costume on Friday and Saturday night on the prior week, as well as Thursday all day.  I walked around the streets, asking not just my friends and acquaintances, but strangers, baristas at coffee shops, waiters, drivers, and anyone that seemed even mildly interested if they’d like to post a secret on me.  Though sometimes impossible, I tried my best to keep the person’s identity anonymous to myself, and made sure to not survey what was written on me until the very end.
 
 Though I really loved the idea of the costume, my expectations were very low.  You can’t really stop people from simply using you as a human blackboard where they’d write on me any nonsensical thing.  And though there was a fair share of people that drew penises or left their phone numbers, I was really impressed and touched at some of the secrets people left.
 
-![](/images/essays/halloween2.jpg)
+<figure>
+<img src="/images/essays/halloween2.jpg">
+<figcaption>I’m afraid my demons will win.</figcaption>
+</figure>
 
-> I’m afraid my demons will win.
-
-![](/images/essays/halloween3.jpg)
-
-> Men have wounded me.  It’s scary.
+<figure>
+<img src="/images/essays/halloween3.jpg">
+<figcaption>Men have wounded me.  It’s scary.</figcaption>
+</figure>
 
 Here is a couple written over each other:
 
-![](/images/essays/halloween4.jpg)
-
-> For 3 years I had to fake it w/ my ex.
-> I’m having a good time.  It’s weird.
-
+<figure>
+<img src="/images/essays/halloween4.jpg">
+<figcaption>For 3 years I had to fake it w/ my ex. | I’m having a good time.  It’s weird. </figcaption>
+</figure>
 
 This one is hard to read, as it’s been overpowered by other messages on top of it, but it’s still somewhat decipherable if you look closely:
 
-![](/images/essays/halloween5.jpg)
+<figure>
+<img src="/images/essays/halloween5.jpg">
+<figcaption>I make jokes b/c I have no reason to laugh.</figcaption>
+</figure>
 
-> I make jokes b/c I have no reason to laugh.
-
-![](/images/essays/halloween6.jpg)
-
-> I’m secretly a sad person.
+<figure>
+<img src="/images/essays/halloween6.jpg">
+<figcaption>I’m secretly a sad person.</figcaption>
+</figure>
 
 And so many more…honestly, I started this project hoping to provide people a safe space for expressing things they have been holding on to, but I never realized the impact it would affect me.  Coming home at the end of the day on Halloween night and taking a look at some of the messages written on me, nearly all for the first time, actually made me tear up.  It was a true reminder that we’re all more than what we make ourselves seem.
 
-![](/images/essays/halloween7.jpg)
+<figure>
+<img src="/images/essays/halloween7.jpg">
+</figure>
 
 Thank you to everyone who shared a secret with me.  I really appreciate you sharing a little vulnerable part of yourselves.
