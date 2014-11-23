@@ -51,4 +51,6 @@ Thanks for stopping by!  Due to the nature of our meeting, we will have to
 settle for virtual hugs for now, but looking forward to hug you for real
 soon!
 
+<figure>
 ![&lt;3](/images/virtual-hug.gif "&lt;3")
+</figure>
