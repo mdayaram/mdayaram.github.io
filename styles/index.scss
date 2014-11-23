@@ -2,14 +2,12 @@
 ---
 @import 'bourbon/bourbon';
 
-.section {
-}
-
 p {
   font-family: Helvetica, Arial, san-serif;
   line-height: 1.7em;
   padding: 30px 20px 30px 20px;
   width: 80%;
+  margin: auto;
 }
 
 #contacts {
