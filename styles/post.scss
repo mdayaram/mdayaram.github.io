@@ -48,7 +48,7 @@ header h2 {
   padding-right: 20px;
   width: 80%;
   margin: auto;
-  p {
+  p, ul, ol, li {
     padding-top: 15px;
     padding-bottom: 15px;
     line-height: 1.7em;
@@ -56,3 +56,8 @@ header h2 {
     font-size: 20px;
   }
 }
+
+.date {
+  padding: 100px 0 20px 0;
+}
+
