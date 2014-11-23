@@ -1,9 +1,10 @@
 ---
 layout: default
+css: /styles/post.css
 ---
 
 {% if page.cover %}
-<header style="background: url('{{ page.cover }}') no-repeat 0 0;">
+<header style="background: {{ page.cover }} no-repeat 0 0;">
 {% else %}
 <header>
 {% endif %}
