@@ -9,5 +9,7 @@ var currently = [
 
 currently.pop();
 var activity = currently[Math.floor(Math.random() * currently.length)];
-var currentlySpan = document.getElementById("currently-doing");
-currentlySpan.innerText = activity;
+var elem = document.getElementById("currently-doing");
+if(elem != null) {
+	elem.innerText = activity;
+}
