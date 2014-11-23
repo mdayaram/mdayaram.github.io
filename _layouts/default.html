@@ -24,15 +24,13 @@
 
   <body>
     <div id="all-the-things">
-    {{ content }}
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          <div>Copyright &copy; 2012 Manoj Dayaram.</div>
-          <div>Actually, that's a lie, I have no idea what it takes to copyright something.</div>
-        </footer>
-      </div>
-    </div>
+
+      {{ content }}
+
+      <footer class="footer">
+        <div>Copyright &copy; 2012 Manoj Dayaram.</div>
+        <div>Actually, that's a lie, I have no idea what it takes to copyright something.</div>
+      </footer>
     </div>
     {% if page.js %}
     <script language="javascript" type="text/javascript" src="{{ page.js }}" />
