@@ -52,5 +52,5 @@ settle for virtual hugs for now, but looking forward to hug you for real
 soon!
 
 <figure>
-![&lt;3](/images/virtual-hug.gif "&lt;3")
+<img title="&lt;3" alt="&lt;3" src="/images/virtual-hug.gif">
 </figure>
