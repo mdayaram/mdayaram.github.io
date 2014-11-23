@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I walked to the Caltrain.
+cover: url('/images/essays/walking-fast.jpg')
 date: '2012-02-23T00:16:08-05:00'
 tags:
 - essay
