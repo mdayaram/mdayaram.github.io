@@ -3,6 +3,7 @@ layout: page
 title: Manoj Dayaram
 permalink: /
 js: /js/currently.js
+css: /styles/index.css
 ---
 
 Hello there, welcome to my site!  My name is Manoj Dayaram, and I'm probably
