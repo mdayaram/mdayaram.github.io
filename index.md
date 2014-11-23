@@ -6,7 +6,8 @@ js: /js/currently.js
 ---
 
 Hello there, welcome to my site!  My name is Manoj Dayaram, and I'm probably
-<span id="currently-doing"></span> right now.
+<span id="currently-doing"></span>
+right now.
 
 If you came here to find out what I like, well then, I like fire,
 fruit parfaits, [hugs](/everybodyhurts), tea, computer science
