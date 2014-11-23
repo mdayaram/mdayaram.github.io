@@ -7,7 +7,7 @@ permalink: /
 <p id="currently"></p>
 
 If you came here to find out what I like, well then, I like fire,
-fruit parfaits, [hugs](/p/everybodyhurts), tea, computer science
+fruit parfaits, [hugs](/everybodyhurts), tea, computer science
 education, [pocket watches](http://www.iwcpocketwatch.com/),
 puppies, [kittens](http://www.lolcats.com),
 [ponies](http://mlp.wikia.com),
