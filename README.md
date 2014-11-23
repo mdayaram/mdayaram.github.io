@@ -13,3 +13,5 @@ Pages.
 * Golive.
 * Update home page
 * Add a projects page to showcase some projects.
+* Add short stories from writers lab.
+* Add old sketchbook drawings.
