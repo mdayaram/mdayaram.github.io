@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-<header>
-  <div id="h_lb">[</div>
-  <div id="title">{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</div>
-  <div id="h_rb">]</div>
-</header>
-
 <div id="all-the-things">
+  <header>
+    <div id="h_lb">[</div>
+    <div id="title">{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</div>
+    <div id="h_rb">]</div>
+  </header>
+
   <div class="blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="mainContentOfPage">
         {{ content }}
