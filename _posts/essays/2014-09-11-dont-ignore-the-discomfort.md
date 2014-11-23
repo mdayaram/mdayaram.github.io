@@ -58,8 +58,10 @@ I certainly wasn’t treating him like a human being, so why should he?
 
 This was upsetting. It seemed that nearly all well intentioned charitable actions one could take on the street were degrading to the individuals receiving help. Luckily I had lots of time on my hands so I decided to use it to be depressed about the terrible state of the world. I spent days sinking my face into my bed and looking at random corners of the internet for things to cheer me up. In my search, I found this video:
 
+<figure>
 <iframe width="560" height="315" src="//www.youtube.com/embed/X0gA2mxbjSY"
 frameborder="0" allowfullscreen></iframe>
+</figure>
 
 A touching video of a group of students trying to make the day brighter for a homeless person. If I had watched this a year ago I would’ve been touched. But because my cynical side had taken over, I watched the entire video and all I could think of was…“that man looks rather uncomfortable.”
 
@@ -118,9 +120,11 @@ I really enjoyed my interactions with the people I met, but I am fully aware tha
 
 However, this wasn’t really meant as a solution to a problem, but rather, an exploration of humanity. It’s an interesting thing to think about when you interact with someone. If conscious, it can lead to some really creative and dignified ways to help people that are safe for everyone involved:
 
+<figure>
 <iframe width="560" height="315" src="//www.youtube.com/embed/QDw0JtwQU8A"
 frameborder="0" allowfullscreen></iframe>
-> Do try this at home, though.
+<figcaption>Do try this at home, though.</figcaption>
+</figure>
 
 [The Street Store](http://thestreetstore.org/) is a wonderful concept which brings back dignity to those in need. Ideas like these are rare, but not impossible to come by. Best of all, they’re just that much more satisfying.
 
