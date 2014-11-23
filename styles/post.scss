@@ -49,11 +49,13 @@ header h2 {
   width: 80%;
   margin: auto;
   p, ul, ol, li {
-    padding-top: 15px;
-    padding-bottom: 15px;
     line-height: 1.7em;
     font-family: Georgia, Cambria, "Times New Roman", serif;
     font-size: 20px;
+  }
+  p {
+    padding-top: 15px;
+    padding-bottom: 15px;
   }
 }
 
