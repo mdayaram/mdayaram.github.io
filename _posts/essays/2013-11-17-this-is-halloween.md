@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This is Halloween.
-cover: url('/images/essays/halloween7.jpg')
+cover: url('/images/essays/halloween0.jpg')
 date: '2013-11-17T23:20:00-05:00'
 tags:
 - essay
