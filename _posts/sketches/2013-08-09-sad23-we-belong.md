@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Sketch-a-Day &#35;23 We Belong
+title: Sketch-a-Day &#35;23
+subtitle: We Belong
 date: '2013-08-09T02:48:00-04:00'
 tags:
 - sketch

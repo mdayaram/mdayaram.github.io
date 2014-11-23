@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Sketch-a-Day &#35;19 Train Person Thing
+title: Sketch-a-Day &#35;19
+subtitle: Train Person Thing
 date: '2013-07-01T00:02:25-04:00'
 tags:
 - sketch

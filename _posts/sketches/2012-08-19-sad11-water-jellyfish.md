@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Sketch-a-Day &#35;11 Water Jellyfish
+title: Sketch-a-Day &#35;11
+subtitle: Water Jellyfish
 date: '2012-08-19T18:25:11-04:00'
 tags:
 - sketch

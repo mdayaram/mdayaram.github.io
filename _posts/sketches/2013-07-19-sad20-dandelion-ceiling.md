@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Sketch-a-Day &#35;20 Dandelion Ceiling
+title: Sketch-a-Day &#35;20
+subtitle: Dandelion Ceiling
 date: '2013-07-19T00:05:03-04:00'
 tags:
 - sketch
