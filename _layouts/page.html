@@ -1,22 +1,14 @@
 ---
 layout: default
 ---
-<div class="wrapper-masthead">
-  <div class="container">
-    <header class="masthead clearfix">
-    <div class="site-info">
-      <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-      <p class="site-description">{{ site.description }}</p>
-    </div>
-    </header>
-  </div>
-</div>
+<div id="all-the-things">
+  <header>
+    <div id="h_lb">[</div>
+    <div id="title">{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</div>
+    <div id="h_rb">]</div>
+  </header>
 
-<div id="main" role="main" class="container">
-  <article class="page">
-    <h1>{{ page.title }}</h1>
-    <div class="entry">
+  <article class="content">
       {{ content }}
-    </div>
   </article>
 </div>
