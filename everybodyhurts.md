@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: page
 title: Everybody Hurts
-permalink: /everybodyhurts
 ---
 
 "Hug me" in as many languages as possible.  Inspired by [this comic](http://www.sinfest.net/archive_page.php?comicID=2917) from [sinfest.net](http://www.sinfest.net):
