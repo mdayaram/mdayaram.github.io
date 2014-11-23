@@ -3,17 +3,13 @@
 @import 'bourbon/bourbon';
 
 .section {
-  width: 80%;
-  margin: 40px auto 40px auto;
-  padding: 20px;
-  border-radius: 30px;
 }
 
-.section p {
+p {
   font-family: Helvetica, Arial, san-serif;
   line-height: 1.7em;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding: 30px 20px 30px 20px;
+  width: 80%;
 }
 
 #contacts {
