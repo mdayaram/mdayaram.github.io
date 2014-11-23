@@ -17,11 +17,22 @@ header.cover .header-mask {
   background-color: rgba(19,19,18,0.5);
 }
 
+header.no-cover {
+  clear: both;
+}
+
 .title {
   max-width: $max-width;
   margin-left: auto;
   margin-right: auto;
+}
+
+header.cover .title {
   padding-top: 15%;
+}
+
+header.no-cover .title {
+  padding-top: 50px;
 }
 
 header h1 {
