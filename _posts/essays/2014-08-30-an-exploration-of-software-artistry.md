@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Exploration of Software Artistry
-cover: /images/essays/software-art1.gif
+cover: url('/images/essays/software-art1.gif')
 date: '2014-08-30T20:06:00-04:00'
 tags:
 - essay
