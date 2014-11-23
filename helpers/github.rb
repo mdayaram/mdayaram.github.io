@@ -4,7 +4,7 @@ module Github
 
   def github_fetch(path, branch="master", account="mdayaram")
     project, path = clean_path(path)
-    page = "https://raw.github.com/#{account}/#{project}/#{branch}/#{path}"
+    page = "https://raw.githubusercontent.com/#{account}/#{project}/#{branch}/#{path}"
     content = HTTPClient.new.get_content(page)
     fix_links(content, account)
   end
@@ -16,12 +16,12 @@ module Github
       return 404, "Nothing to see here, move along."
     end
 
-    haml "templates/markdown".to_sym, 
-      :locals => 
-        { :page => "hugs", 
-          :title => page[0], 
-          :input => page[2..-1].join
-        }
+    haml "templates/markdown".to_sym,
+      :locals =>
+    { :page => "hugs",
+      :title => page[0],
+      :input => page[2..-1].join
+    }
   end
 
   private
