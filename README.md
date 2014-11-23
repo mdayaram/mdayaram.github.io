@@ -11,3 +11,5 @@ Pages.
 * Create a blog page that is useable.
 * Transfer other github projects into here.
 * Golive.
+* Update home page
+* Add a projects page to showcase some projects.
