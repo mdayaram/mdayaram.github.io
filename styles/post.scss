@@ -8,14 +8,16 @@ header.cover {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 0 0;
+  background-color: black;
   color: #fff;
 }
 
 header.cover .header-mask {
   min-height: 100%;
   width: 100%;
-  height: 100%;
   background-color: rgba(19,19,18,0.5);
+  position: absolute;
+  bottom: 0px;
 }
 
 header.no-cover {
