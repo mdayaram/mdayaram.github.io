@@ -10,11 +10,11 @@ module Github
   end
 
   def github_markdown(path, branch="master", account="mdayaram")
-    begin
-      page = github_fetch(path, branch, account).lines.to_a
-    rescue Exception => e
-      return 404, "Nothing to see here, move along."
-    end
+    #begin
+    page = github_fetch(path, branch, account).lines.to_a
+    #rescue Exception => e
+    #  return 404, "Nothing to see here, move along."
+    #end
 
     haml "templates/markdown".to_sym,
       :locals =>
