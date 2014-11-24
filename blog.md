@@ -11,11 +11,13 @@ Getting better, one failure at a time.
 	<h3>{{ tag | capitalize }}</h3>
 	<ul>
 		{% for post in site.posts %}
+			<li> Post:
 			{% if post.tags contains tag %}
-				<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+				<a href="{{ post.url }}">{{ post.title }}</a>
 			{% else %}
-				<li>{{ post.tags }}</li>
+				{{ post.tags }}
 			{% endif %}
+			</li>
 		{% endfor %}
 	</ul>
 </div>
