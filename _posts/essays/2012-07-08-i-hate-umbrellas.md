@@ -4,7 +4,7 @@ title: I Hate Umbrellas
 cover: /images/essays/i-hate-umbrellas.jpg
 date: '2012-07-08T16:10:00-04:00'
 tags:
-- essay
+- essays
 ---
 
 I hate umbrellas.  Why do I hate them?  Well, they don’t shield you from rain coming in from an angle, they fail at shielding you from splashes coming from below, they poke people’s eyes out, they are completely useless in the wind, making you look ridiculous, and more often than not, end up getting destroyed after a rainy and windy day, making them a terrible solution for the problem they’re attempting to solve, which is not getting wet in the rain.

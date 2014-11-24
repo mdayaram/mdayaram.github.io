@@ -4,7 +4,7 @@ title: Sketch-a-Day &#35;11
 subtitle: Water Jellyfish
 date: '2012-08-19T18:25:11-04:00'
 tags:
-- sketch
+- sketches
 - watercolor
 ---
 ![](/images/sketches/sad11-water-jellyfish.jpg)

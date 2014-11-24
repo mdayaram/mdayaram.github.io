@@ -4,7 +4,7 @@ title: Sketch-a-Day &#35;14
 subtitle: Octo Dolphin
 date: '2012-11-16T17:00:00-05:00'
 tags:
-- sketch
+- sketches
 ---
 ![](/images/sketches/sad14-octo-dolphin.jpg)
 

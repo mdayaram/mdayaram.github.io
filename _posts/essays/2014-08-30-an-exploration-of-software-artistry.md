@@ -4,7 +4,7 @@ title: An Exploration of Software Artistry
 cover: /images/essays/software-art1.gif
 date: '2014-08-30T20:06:00-04:00'
 tags:
-- essay
+- essays
 ---
 
 Ever since I began programming, I’ve been fascinated about source code and its structure. For those unfamiliar, source code is the text in which a person, a programmer, writes instructions for a computer to follow. As with all texts, these instructions can be written in one of many languages as long as both the person writing these instructions and the machine that follows them are both proficient in the language.

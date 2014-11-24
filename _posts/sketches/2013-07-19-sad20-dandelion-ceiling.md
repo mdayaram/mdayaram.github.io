@@ -4,7 +4,7 @@ title: Sketch-a-Day &#35;20
 subtitle: Dandelion Ceiling
 date: '2013-07-19T00:05:03-04:00'
 tags:
-- sketch
+- sketches
 ---
 ![](/images/sketches/sad20-dandelion-ceiling.jpg)
 

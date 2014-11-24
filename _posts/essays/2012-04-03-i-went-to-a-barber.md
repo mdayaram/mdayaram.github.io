@@ -3,7 +3,7 @@ layout: post
 title: I went to a barber.
 date: '2012-04-03T09:13:17-04:00'
 tags:
-- essay
+- essays
 ---
 Every now and then, I like to go to a barber to remind myself what a good old fashion shave feels like.  And every now and then, the barber tries to give me the closest shave possible.
 

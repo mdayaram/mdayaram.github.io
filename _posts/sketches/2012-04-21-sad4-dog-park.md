@@ -4,7 +4,7 @@ title: Sketch-a-Day &#35;4
 subtitle: Dog Park
 date: '2012-04-21T00:00:00-04:00'
 tags:
-- sketch
+- sketches
 ---
 ![](/images/sketches/sad4-dog-park.jpg)
 

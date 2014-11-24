@@ -4,7 +4,7 @@ title: Skecth-a-Day &#35;1
 subtitle: James at Starbucks
 date: '2012-04-03T14:00:00-04:00'
 tags:
-- sketch
+- sketches
 ---
 ![](/images/sketches/sad1-james-sketch.jpg)
 ![](/images/sketches/sad1-james-photo.jpg)

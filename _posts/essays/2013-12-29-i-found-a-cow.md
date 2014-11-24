@@ -4,7 +4,7 @@ title: I Found a Cow
 cover: /images/essays/cow.jpg
 date: '2013-12-29T17:22:00-05:00'
 tags:
-- essay
+- essays
 ---
 
 Most of the things I have are things people have given me throughout the years.  During the winter break, I’ve been trying to clean my room and I have stumbled through several items which I remember being a keepsake from someone, though I can’t quite remember from who or exactly the context that it was given to me in.

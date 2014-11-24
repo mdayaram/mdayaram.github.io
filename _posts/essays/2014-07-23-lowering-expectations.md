@@ -3,7 +3,7 @@ layout: post
 title: Lowering Expectations
 date: '2014-07-23T16:19:20-04:00'
 tags:
-- essay
+- essays
 ---
 Had a pretty awesome fancy dinner with Nora yesterday and just went over some of the notes I took during the time. One thing I noted was the following:
 

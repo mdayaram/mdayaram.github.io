@@ -4,7 +4,7 @@ title: Sketch-a-Day &#35;21
 subtitle: Plains Lense
 date: '2013-08-07T01:49:00-04:00'
 tags:
-- sketch
+- sketches
 ---
 ![](/images/sketches/sad21-plains-lense.jpg)
 

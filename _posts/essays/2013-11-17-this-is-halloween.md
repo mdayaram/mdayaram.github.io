@@ -4,7 +4,7 @@ title: This is Halloween.
 cover: /images/essays/halloween0.jpg
 date: '2013-11-17T23:20:00-05:00'
 tags:
-- essay
+- essays
 ---
 
 People usually get the impression that I really like Halloween for some reason.  Not sure if it’s just because of my ridiculous nature or the random antics I pull from time to time that perhaps, when extrapolated, can be loosely related to the mischief which is associated with Halloween.  Regardless why it may be, when it comes close to Halloween time, friends always seem to have relatively high hopes and expectations in seeing what I’ll do, in terms of costume or anything event related.

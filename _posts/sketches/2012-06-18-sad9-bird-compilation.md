@@ -4,7 +4,7 @@ title: Sketch-a-Day &#35;9
 subtitle: Bird Compilation
 date: '2012-06-18T00:00:00-04:00'
 tags:
-- sketch
+- sketches
 ---
 ![](/images/sketches/sad9-bird-compilation.jpg)
 

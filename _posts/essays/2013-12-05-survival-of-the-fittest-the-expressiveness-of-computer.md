@@ -5,7 +5,7 @@ subtitle: The Expressiveness of Computer Languages
 cover: /images/essays/survival1.png
 date: '2013-12-05T21:17:00-05:00'
 tags:
-- essay
+- essays
 ---
 
 I come from a very heavy Java background.  I’ve worked with Java for almost 10 years now, and I’ve worked with very large Java code bases in my previous jobs.  Needless to say, I was a huge design pattern nut.

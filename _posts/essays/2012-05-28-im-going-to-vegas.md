@@ -3,7 +3,7 @@ layout: post
 title: I'm going to Vegas...
 date: '2012-05-28T00:32:42-04:00'
 tags:
-- essay
+- essays
 ---
 I’m going to Vegas on June 8th for [EDC](http://electricdaisycarnival.com/).  I was there last year and it was a lot of fun.  This year, I’m even meeting a few friends from high school that I haven’t seen in forever.  I’m pretty excited to catch up and party with them.
 
