@@ -1,0 +1,446 @@
+---
+layout: post
+title: The Mad Scientist Writer's Lab
+subtitle: Winter 2014
+date: '2012-02-23T00:16:08-05:00'
+tags:
+- stories
+---
+
+[The Mad Scientist Writer's Lab](http://madscientistwriterslab.com/) is a six
+week writing course that focuses on writing short stories every day.  The
+stories are aggressively short (exactly 50 words each).  This helped me really
+focus on the elements which I thought made a good story, forcefully removing
+everything else.
+
+The program ran for 36 days, so I have with me here 36 different 50 word
+stories.  I have strong negative and positive opinions about each one, but let
+me know what you think!
+
+
+### 1.
+Rachel couldn't believe it. "Just one?" she exclaimed flabbergasted. "Yes," replied Sarah. Rachel's face flushed as she trembled, "...but aren't you afraid it won't be perfect? What if you make a mistake?" Sarah smiled gently, "when you have only one, there are no mistakes. It just is what it is."
+
+
+### 2.
+"I'm so excited!"  
+"Do you feel it?"  
+"I do! Do you?"  
+"No, not yet...but I'm sure I will soon."  
+"It's happening! I can feel the energy!"  
+"Be careful! I hear there's no going back!"  
+"It doesn't matter, I don't care, I'm going!"  
+"Goodbye friend."  
+"Goodbye"  
+
+\*pop\*
+
+beep  
+beep  
+beeeeeeeeeeeeep  
+
+*Title: Popcorn*
+
+
+### 3.
+\*poke\*
+
+Sigh, relief.  
+Another one is safe.  
+I really don't know how this game is played, but if it's about luck...
+
+\*poke\*
+
+Phew...  
+I wonder what happens when you're not lucky...
+
+\*poke\* -- zerp --
+
+Huh?
+
+\*poke\* -- zerp --
+
+Hmm.  
+I guess that's what it means to be unlucky...  
+
+\*poke\* -- zerp --
+
+Hm, fascinating.
+
+
+### 4.
+"You're a weird bird."  
+"I'm not a bird! I'm a balloon!"  
+"Oh? What's that?"  
+"A balloon is a loving creature. We never forget our first love, thus, develop a tail as a reminder. But with time, we love and part with many...until..."  
+"Until? "  
+"...we love and part with ourselves."  
+
+
+### 5.
+The grass is always greener...  
+Why wouldn't you keep hopping fences?  
+...he thought to himself.  
+This was his tenth time crossing over, and not once had he been disappointed.
+
+The grass is always greener...
+Already bored, he was getting ready to cross over again...And he did.  
+"Hmm?"  
+...And again.
+
+
+### 6.
+"It's not about snapping under pressure..."
+
+"Think of it like taffy. You're being stretched in all different directions.  You don't really know when it happens, but the more you stretch, parts of you become skinnier and skinnier...until one day, and you don't even notice when, you're no longer whole."
+
+
+### 7.
+He spent hours organizing and staging the scene.  
+The stegosaurus was romping through a lego town while the t-rex devoured toy soldiers. The pterodactyl was hung by a wire and made to circle the entire canvas. All this for his son...to keep imagination alive.
+
+Transient? For sure.  
+Worth it?
+
+
+### 8.
+"SIX matches"  
+"Why six?"  
+"ONE, pressure  
+TWO, speed  
+THREE, wind  
+FOUR, aim  
+FIVE, strength  
+SIX..."
+
+"Huh?"
+
+"ONE snaps from the striking pressure.  
+TWO's tip wears because you strike too quickly.  
+THREE will be claimed by the wind.  
+FOUR will light but miss.  
+FIVE will succeed."  
+
+"And six?"
+
+"SIX..." he smiled.
+
+
+### 9.
+"This is amazing!"  
+"Wow! When did you get here?  
+"Just now!"  
+"It's been 'just now' for decades!"  
+"You've been here decades?"  
+"For as long as I remember."  
+"How do you get out?"  
+"You can't, you just have to wait for 'now' to be over."  
+"Hmmm, brunch then?"  
+"Now?"  
+"Yeah."  
+"Sure."
+
+
+### 10.
+drip  
+drip  
+drip  
+twist  
+and angle.  
+Remember.  
+Elbow  
+lean  
+pour  
+angle  
+drip  
+drip  
+drip  
+twist  
+and angle.
+
+You're new, don't stress too much, you're doing fine. You'll be doing this several times a day so you'll get plenty of practice.
+
+Still nervous? Don't worry. I'll always be there to help.
+
+
+### 11.
+I got the razors, it's almost 10, just enough time to start and have them find me.  
+I'm not suicidal, oh no, I love myself too much for that.  
+I just want to scare them.  
+I know they'll be hurt, that's the point.  
+That's how I know they love me.
+
+
+### 12.
+I could see him trying to swerve away but it was too late.
+
+The opposing car charged forward like a raging buffalo crashing to my side.
+
+I saw the window shatter, I could count each individual shard of glass as it glided past me.
+
+I looked back...she was gone.
+
+
+### 13.
+The blood flowed down his lip, pooling by his chin and dripping down at the tempo of his heartbeat.
+
+A small puddle collected underneath him. He looked down at what he had amassed and, almost as in shock, loosened his teeth's grip on his lip.
+
+He searched for a tissue.
+
+
+### 14.
+I have a story to tell.
+
+It might not be a good story.
+
+But you might like it, or you might not.
+
+It's not particularly interesting, nor is it exceptionally thought provoking.
+
+I just need to tell it.
+
+I have a story to tell. So please, gather around and listen.
+
+
+### 15.
+The light no longer shined, but instead, glowed a dim hue of dilating sunset.
+
+Colors, those which shocked people into blindness, were now banned.
+
+As with any loss, resistance was inevitable.
+
+But with time, the purpose was heightened, but in so, became diluted.
+
+"The sky...it used to be peaceful..."
+
+
+### 16.
+SPLASH!
+
+In less than a second, she was fully submerged in the tank, hands tied.
+
+one...two...three...
+
+She counted in her head, like a metronome, dictating exactly when to play each note of her performance.
+
+four...five...six...
+
+...and the curtains came down...
+
+seven...eight....nine...
+
+The thrill begins.
+
+
+### 17.
+"Hi mister Jones, the usual?"
+
+"Yes"
+
+She began grinding the beans.
+
+Sigh.
+
+"Everything alright mister Jones?"
+
+She steamed the milk.
+
+"Just tired of the same thing...no appreciation. That's it! I'm demanding
+a raise!"
+
+"Mister Jones."
+
+She handed him a cup.
+
+"Thanks, later."
+
+She sighed.
+
+"Hi misses Goldberg, the usual?"
+
+
+### 18.
+"Better be careful there, you almost kicked me in the balls!"  
+"That'll happen when you're TOUCHING BUTTS!"  
+"Come over here and let me sit on you!"  
+"Stop torturing meeeeeee!"
+
+\*poke\*
+
+"Ow! Was that you?"  
+"No!" Why would you think it was me?"  
+"Chaaaaaarrrrrrless is enjoying some creamsicles."  
+"Haha!"  
+"Not now!"  
+
+
+### 19.
+I find it a little sacrilege that you would even consider mixing those two things.
+
+I swear, if you even lay one hand on my stash I will end you.
+
+And don't even try to convince me. I'm keeping my cache under lock and key.  Good luck getting some.
+
+FUCK.
+
+
+### 20.
+I kept moving forward, making progress at every step.
+
+I did the work, put in the effort, made the checks.
+
+I was expedient, and optimized wherever I felt appropriate.
+
+We were moving forward faster than we've ever done before.
+
+It never occurred to me...that even crashing planes go somewhere.
+
+
+### 21.
+Someone has to keep them in check. You just want to let them loose, to do whatever they wanted?
+
+There's a lot of power and a lot of ego involved, you gotta tread lightly on the extremes.
+
+And that's where I come in.
+
+Your friendly neighborhood Philanthropic Hero Destroyer.
+
+-PHD
+
+
+### 22.
+Ya ready? Good boy, come by now. That's right, grab your leash, put it on, and give me the other end.  
+Now follow me!
+
+STOP! I smell an intruder!  
+Hmmm, false alarm, it was just me. LET'S GO!
+
+Finally! We're making progress!...umph! Why did we stop?!  
+...  
+...  
+...Where are we?
+
+
+### 23.
+It weighed heavily on him. Like a hammer resting on top of a toothpaste tube, gravity slowly aiding just enough pressure to squeeze just enough of his minty fresh sanity out so that he wouldn't notice.
+
+But he did.
+
+If only he could find the cap, he could stop it.
+
+
+### 24.
+Hi pumpkin,
+
+You wouldn't believe what your father did! He went off and slipped, twisting his ankle! Don't worry, he's alright, just needs rest.
+
+I know you're very busy, it's ok if you can't reply right away.
+
+Take care my sweetie, hope things are going well.
+
+Lots of love,  
+Mom
+
+
+### 25.
+"What do you mean NO?!  Do you have any idea how hard I've worked, how much money I saved, how many protests I've attended, how many people I've fought, all for your sake!?  For your right to --"
+
+"-- to say NO."
+
+"No, for your right to choose!"
+
+"...but I choose NO."
+
+
+### 26.
+This is bullshit!  Whoever came up with this should have been sent into the abyss on their own personal liner.
+
+Seriously, captain goes down with his ship?  How does that make any sense?
+
+Oh well, everyone's gone now, hopefully safe.
+
+Now to find the fastest way to sink this thing!
+
+
+### 27.
+"Dragon Slayer," is what they called him.  On his sword's grip he etched marks for each of his conquests.  They filled in, like a palette, leaving little room for more.
+
+Yet, with sword carved from dragon fang and shield cast from dragon scale at hand, he paralyzed.
+
+It wasn't enough.
+
+
+### 28.
+"How old?"  
+"Relative time, 14.  Absolute time....around 37?"  
+"14, huh? Another prodigy...They figure out how to pause relative time too soon and just want to live in a frozen world."  
+"Come now, are older folk any better?"  
+"No...I'm just tired of seeing children die from old age..."  
+
+
+### 29.
+She added some wine and the pan erupted in flames.  She dipped a spoon and took a taste.
+
+She smacked her lips...still not quite right.
+
+She tossed the pan contents down the drain.
+
+"Just give me a few more days, a few more days and dinner will be served!"
+
+
+### 30.
+"No one cares that you tried really hard.  You either built something that works or something that doesn't.  No one is paying you for your effort, they're paying you for a product that works.  Now suck it up and try again!"
+
+"But it's just for myself..."
+
+"The most important client."
+
+
+### 31.
+How did we meet?  
+In my 20s, I asked my parents to find me a wife.  After several reviews, I found her and we got married.  
+Perhaps not as civilized as a computer deciding who you meet and getting drunkvand married in Vegas, but it's worked out for us.  
+
+
+### 32.
+He doesn't remind me of myself, but MAN does he bring back memories! Good instinct, mediocre execution, but that'll get better with experience.
+
+"Kid, the things you do remind me of the things I used to do. So here's some advice...Stop...unless you want to end up like me."
+
+
+### 33.
+They come to me when they need to settle disputes.  I don't need to provide explanations, but I always try to.  Regardless, my word is taken uncontested, and the dispute is resolved.
+
+"Hold me."  
+"Why, darling?"  
+"I need you to remind me that I'm a person and not a God."
+
+
+### 34.
+Camino Verde. It's absolutely divine. The aromas of citrus and pineapple are accentuated by its earthy tones. With a clean finish, it pairs with nearly anything!
+
+"Awesome! Camino Verde is my favorite! Hey Siri, tell me about La Red"
+
+La Red. It's absolutely divine. The aromas of citrus and pineapple...
+
+
+### 35.
+Silk ribbon, beautiful bow. Phew, that's the last of them. Go ahead darling, they're ready for delivery!
+
+"Ho ho ho! Thank you darling!"
+
+"Mommy, can we play now?"
+
+Oh, sweety, I'm sorry, but we have to get started for next year now. Maybe if
+we finish this batch early.
+
+"Ok..."
+
+
+### 36.
+Have you ever burnt the roof of your mouth? The skin gets stringy and sheds off. Then you have this hyper-sensitive area. Suddenly eating, your mouth's purpose, becomes painful.
+
+It's like that. And like that, your "mouth" will heal, and you'll forget what pain feels like...
+
+...until it happens again.
