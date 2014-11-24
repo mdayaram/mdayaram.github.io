@@ -1,8 +1,0 @@
-- content_for :vars do
-	- @title = "#{title}"
-	- @stylesheets << '/styles/github.css'
-
-%div{ :class => "blob instapaper_body" }
-	%article{:class => "markdown-body entry-content", :itemprop => "mainContentOfPage"}
-		= markdown "#{input}"
-
