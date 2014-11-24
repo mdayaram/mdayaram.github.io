@@ -13,6 +13,8 @@ Getting better, one failure at a time.
 		{% for post in site.posts %}
 			{% if post.tags contains tag %}
 				<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+			{% else %}
+				<li>{{ post.tags }}</li>
 			{% endif %}
 		{% endfor %}
 	</ul>
