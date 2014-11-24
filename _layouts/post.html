@@ -1,0 +1,33 @@
+---
+layout: default
+css: /styles/post.css
+---
+
+{% if page.cover %}
+<header class="cover" style="background-image: url('{{ page.cover }}')">
+{% else %}
+<header class="no-cover">
+{% endif %}
+  <div class="header-mask">
+    <div class="title">
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}<h2>{{ page.subtitle }}</h2>{% endif %}
+    </div>
+  </div>
+</header>
+
+<div id="all-the-things" class="blob instapaper_body">
+  <article class="markdown-body entry-content" itemprop="mainContentOfPage">
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+  {% include disqus.html disqus_identifier=page.disqus_identifier %}
+</article>
+
+{% include footer.html %}
+</div>

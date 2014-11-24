@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div id="all-the-things">
+  <header class="page">
+    <div id="h_lb">[</div>
+    <div id="title">{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</div>
+    <div id="h_rb">]</div>
+  </header>
+
+  <div class="blob instapaper_body">
+    <article class="markdown-body entry-content" itemprop="mainContentOfPage">
+        {{ content }}
+    </article>
+  </div>
+  {% include footer.html %}
+</div>
