@@ -1,18 +1,20 @@
 ---
-layout: default
+layout: page
+title: Stuff Happened
+description: So I wrote about it.
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">    
-      
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+Getting better, one failure at a time.
 
-      <div class="entry">
-        {{ post.content | truncatewords:40}}
-      </div>
-      
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+{% for tag in site.post-tags %}
+<div class="post-list">
+	<h3>{{ tag | capitalize }}</h3>
+	<ul>
+		{% for post in site.posts %}
+			{% if post.tags contains tag %}
+				<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
 </div>
+{% endfor %}
