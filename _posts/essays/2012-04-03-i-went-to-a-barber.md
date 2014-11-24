@@ -1,7 +1,6 @@
 ---
 layout: post
 title: I went to a barber.
-cover: /images/essays/barber.jpg
 date: '2012-04-03T09:13:17-04:00'
 tags:
 - essay

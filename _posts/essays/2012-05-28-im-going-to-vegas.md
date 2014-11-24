@@ -1,7 +1,6 @@
 ---
 layout: post
 title: I'm going to Vegas...
-cover: /images/essays/vegas.jpg
 date: '2012-05-28T00:32:42-04:00'
 tags:
 - essay

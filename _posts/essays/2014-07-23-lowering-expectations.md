@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Lowering Expectations
-cover: /images/essays/snapchat.png
 date: '2014-07-23T16:19:20-04:00'
 tags:
 - essay
