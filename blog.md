@@ -15,7 +15,7 @@ Getting better, one failure at a time.
 			{% if post.tags contains tag %}
 				<a href="{{ post.url }}">{{ post.title }}</a>
 			{% else %}
-				{{ post.tags }}
+				{{ post.tags }} | {{ tag }}
 			{% endif %}
 			</li>
 		{% endfor %}
