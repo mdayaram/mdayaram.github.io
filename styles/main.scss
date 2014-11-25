@@ -88,13 +88,15 @@ figure {
 
 
 .entry-content {
+  width: 80%;
+
   p, ul, ol, li {
     line-height: 1.7em;
     font-family: Georgia, Cambria, "Times New Roman", serif;
     font-size: 20px;
     margin: auto;
-    width: 80%;
   }
+
   p {
     padding: 15px 0 15px 0;
   }
