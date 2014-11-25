@@ -76,6 +76,7 @@ footer {
 }
 
 figure {
+  padding: 20px 0 20px 0;
   text-align: center;
 }
 
@@ -84,3 +85,18 @@ figure {
   padding: 0 20px 0 20px;
   vertical-align: top;
 }
+
+
+.entry-content {
+  p, ul, ol, li {
+    line-height: 1.7em;
+    font-family: Georgia, Cambria, "Times New Roman", serif;
+    font-size: 20px;
+    margin: auto;
+    width: 80%;
+  }
+  p {
+    padding: 15px 0 15px 0;
+  }
+}
+
