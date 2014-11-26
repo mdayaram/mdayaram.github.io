@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Noj - Getting better, one failure at a time.
+title: Manoj Dayaram
 permalink: /
 js: /js/currently.js
 css: /styles/index.css
