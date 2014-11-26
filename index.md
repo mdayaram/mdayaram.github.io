@@ -48,7 +48,7 @@ through these channels.
 </p>
 
 Thanks for stopping by!  Due to the nature of our meeting, we will have to
-settle for virtual hugs for now, but looking forward to hug you for real
+settle for virtual hugs for now, but looking forward to hugging you in real life
 soon!
 
 <figure>
