@@ -6,7 +6,7 @@ date: '2012-05-19T17:09:21-04:00'
 tags:
 - sketches
 ---
-![](/images/sketches/sad6-karen-hair.jpg)
+![](/assets/images/sketches/sad6-karen-hair.jpg)
 
 Well, you can tell you fail at life when you get a sketch-a-day notebook, decide that’s too hard so you relax the condition to sketch-a-week, and *still* can’t get that going….
 

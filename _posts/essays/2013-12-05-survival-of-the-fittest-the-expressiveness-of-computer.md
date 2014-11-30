@@ -2,7 +2,7 @@
 layout: post
 title: Survival of the Fittest
 subtitle: The Expressiveness of Computer Languages
-cover: /images/essays/survival1.png
+cover: /assets/images/essays/survival1.png
 date: '2013-12-05T21:17:00-05:00'
 tags:
 - essays
@@ -27,7 +27,7 @@ As time went on, though, something interesting had happened…I started to enjoy
 I remember feeling super proud of myself for coming up with this idea.  I walked around the halls with a huge smirk on my face, giving high fives to people, finger guns ablazing.
 
 <figure>
-<img src="/images/essays/survival2.gif">
+<img src="/assets/images/essays/survival2.gif">
 </figure>
 
 Little did I know that this revelation had been an item of much discussion for nearly ten years now within the Computer Science community.  Jeff Atwood from Coding Horror compiled a nice blog post about how [design patterns might be how languages](http://www.codinghorror.com/blog/2005/06/are-design-patterns-how-languages-evolve.html) evolve back in 2005 where he quotes a wiki entry from Cunningham & Cunningham about how the [presence of excessive design patterns is indicative of missing language features](http://c2.com/cgi/wiki?AreDesignPatternsMissingLanguageFeatures).

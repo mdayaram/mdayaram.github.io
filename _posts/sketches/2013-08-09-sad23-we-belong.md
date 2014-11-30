@@ -6,7 +6,7 @@ date: '2013-08-09T02:48:00-04:00'
 tags:
 - sketches
 ---
-![](/images/sketches/sad23-we-belong.jpg)
+![](/assets/images/sketches/sad23-we-belong.jpg)
 
 Today was the first day of Outside Lands.  Between all the stages, there was this one section in the middle of the woods called “Digital Detox: Disconnect to Reconnect.”  It was basically an area where they kindly asked you to turn off your phones and had a bunch of really cool old retro type of stuff.
 

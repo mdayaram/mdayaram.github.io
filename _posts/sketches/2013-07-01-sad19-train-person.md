@@ -6,7 +6,7 @@ date: '2013-07-01T00:02:25-04:00'
 tags:
 - sketches
 ---
-![](/images/sketches/sad19-train-person.jpg)
+![](/assets/images/sketches/sad19-train-person.jpg)
 
 I’m not sure what happened here.  This is one of those drawings where I just tried drawing stuff out of no where.
 

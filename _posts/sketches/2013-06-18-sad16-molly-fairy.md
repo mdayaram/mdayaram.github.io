@@ -7,6 +7,6 @@ tags:
 - sketches
 - molly
 ---
-![](/images/sketches/sad16-molly-fairy.jpg)
+![](/assets/images/sketches/sad16-molly-fairy.jpg)
 
 Molly stole my sketchbook and drew her own little entry of a fairy.  As you can see, her drawing style far differs from mine, in the sense that hers is a lot better.  

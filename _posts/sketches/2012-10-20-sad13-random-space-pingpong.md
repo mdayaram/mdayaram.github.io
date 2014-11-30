@@ -6,7 +6,7 @@ date: '2012-10-20T17:00:00-04:00'
 tags:
 - sketches
 ---
-![](/images/sketches/sad13-random-space-pingpong.jpg)
+![](/assets/images/sketches/sad13-random-space-pingpong.jpg)
 
 I’m not sure what I was doing here.  I started off with a giant ball, and thought it would be funny to draw a dinosaur on it, so it was like, a dinosaur riding an asteroid, reminiscent of Dr. Strangelove.
 

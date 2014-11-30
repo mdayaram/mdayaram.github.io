@@ -6,6 +6,6 @@ date: '2012-10-20T13:35:00-04:00'
 tags:
 - sketches
 ---
-![](/images/sketches/sad12-raining-rainbow.jpg)
+![](/assets/images/sketches/sad12-raining-rainbow.jpg)
 
 Raining Rainbow

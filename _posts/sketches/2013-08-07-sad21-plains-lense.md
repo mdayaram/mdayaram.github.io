@@ -6,7 +6,7 @@ date: '2013-08-07T01:49:00-04:00'
 tags:
 - sketches
 ---
-![](/images/sketches/sad21-plains-lense.jpg)
+![](/assets/images/sketches/sad21-plains-lense.jpg)
 
 Was waiting in the doctor’s office so I decided to put up a sketch.  Supposed to be a person sitting on a hill, overlooking the plains, large tree on the corner, tiny child flying a kite on the plains, mountains over the horizon.
 

@@ -7,6 +7,6 @@ tags:
 - sketches
 - molly
 ---
-![](/images/sketches/sad18-molly-shepherd-girl.jpg)
+![](/assets/images/sketches/sad18-molly-shepherd-girl.jpg)
 
 Molly took over again with a really beautiful sketch of a shepherd girl.  As you can tell, her drawing style is very animeish.

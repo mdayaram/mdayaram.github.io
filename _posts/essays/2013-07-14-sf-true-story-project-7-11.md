@@ -9,7 +9,7 @@ tags:
 Original post can be found in
 [sftruestoryproject](http://sftruestoryproject.tumblr.com/post/55483414885/transcription-i-hadnt-been-to-a-7-11-for-the):
 
-![](/images/essays/sftruestoryproject-7-11.jpg)
+![](/assets/images/essays/sftruestoryproject-7-11.jpg)
 
 > **Transcription:**
 >
