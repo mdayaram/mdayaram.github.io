@@ -26,6 +26,31 @@ css: /assets/styles/post.css
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
+  <div class="prev-next">
+    {% for category in site.categories %}
+        {% assign catg_name = category.first %}
+        {% if catg_name == page.categories.last %}
+            {% assign catg_posts = category.last %}
+        {% endif %}
+    {% endfor %}
+    {% for post in catg_posts %}
+        {% if post.title == page.title %}
+            {% unless forloop.last %}
+                {% assign next = catg_posts[forloop.index] %}
+                <div class="prev">
+                <a href="{{ next.url }}">&larr; {{ next.title }} :: Previous ]</a>
+                </div>
+            {% endunless %}
+            {% unless forloop.first %}
+                <div class="next">
+                <a href="{{ prev.url }}">[ Next :: {{ prev.title }} &rarr;</a>
+                </div>
+            {% endunless %}
+        {% endif %}
+        {% assign prev = post %}
+    {% endfor %}
+  </div>
+
   {% include disqus.html disqus_identifier=page.disqus_identifier %}
 </article>
 
