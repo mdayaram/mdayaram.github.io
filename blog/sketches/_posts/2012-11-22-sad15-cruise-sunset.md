@@ -3,8 +3,6 @@ layout: post
 title: Sketch-a-Day &#35;15
 subtitle: Cruise Sunset
 date: '2012-11-22T13:45:13-05:00'
-tags:
-- sketches
 ---
 ![](/assets/images/sketches/sad15-cruise-sunset.jpg)
 

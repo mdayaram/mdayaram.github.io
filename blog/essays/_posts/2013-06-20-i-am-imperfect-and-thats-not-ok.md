@@ -2,8 +2,6 @@
 layout: post
 title: I am Imperfect, and that's Not ok.
 date: '2013-06-20T01:51:00-04:00'
-tags:
-- essays
 ---
 We’re all imperfect.  That is not a surprise.  It’s something you hear everyone saying, “everyone has flaws, just gotta learn to accept them.”  Acceptance, it seems, is the way to deal with your imperfections.  You are imperfect  and that’s ok, so you should learn to accept your imperfections and be happy with yourself.
 

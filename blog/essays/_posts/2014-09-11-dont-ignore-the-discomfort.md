@@ -4,8 +4,6 @@ title: Don't Ignore the Discomfort
 subtitle: An exploration of humanity in the streets of San Francisco.
 cover: /assets/images/essays/discomfort.jpg
 date: '2014-09-11T10:23:00-04:00'
-tags:
-- essays
 ---
 
 First, a series of stories. Let’s try to go through them chronologically.

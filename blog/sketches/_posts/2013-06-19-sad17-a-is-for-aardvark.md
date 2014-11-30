@@ -3,8 +3,6 @@ layout: post
 title: Sketch-a-Day &#35;17
 subtitle: A is for Aardvark
 date: '2013-06-19T09:24:17-04:00'
-tags:
-- sketches
 ---
 ![](/assets/images/sketches/sad17-a-is-for-aardvark.jpg)
 

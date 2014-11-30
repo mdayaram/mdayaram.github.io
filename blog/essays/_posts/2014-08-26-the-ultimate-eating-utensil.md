@@ -3,8 +3,6 @@ layout: post
 title: The Ultimate Eating Utensil
 cover: /assets/images/essays/spoons.jpg
 date: '2014-08-26T19:44:00-04:00'
-tags:
-- essays
 ---
 It’s probably clear to everyone that spoons are the ultimate eating utensil, their power only amplified when paired with the ultimate eating vessel, the bowl.
 

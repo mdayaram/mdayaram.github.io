@@ -3,8 +3,6 @@ layout: post
 title: Sketch-a-Day &#35;10
 subtitle: Angel Ballerina
 date: '2012-07-13T13:32:55-04:00'
-tags:
-- sketches
 ---
 ![](/assets/images/sketches/sad10-angel-ballerina.jpg)
 

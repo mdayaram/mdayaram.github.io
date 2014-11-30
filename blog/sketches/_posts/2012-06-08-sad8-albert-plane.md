@@ -3,8 +3,6 @@ layout: post
 title: Sketch-a-Day &#35;8
 subtitle: Albert Plane
 date: '2012-06-08T00:00:00-04:00'
-tags:
-- sketches
 ---
 ![](/assets/images/sketches/sad8-albert-plane.jpg)
 

@@ -3,8 +3,6 @@ layout: post
 title: Sketch-a-Day &#35;5
 subtitle: Tahoe Kitchen
 date: '2012-04-29T00:00:00-04:00'
-tags:
-- sketches
 ---
 ![](/assets/images/sketches/sad5-tahoe-kitchen.jpg)
 

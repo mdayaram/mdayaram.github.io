@@ -3,8 +3,6 @@ layout: post
 title: Skecth-a-Day &#35;1
 subtitle: James at Starbucks
 date: '2012-04-03T14:00:00-04:00'
-tags:
-- sketches
 ---
 ![](/assets/images/sketches/sad1-james-sketch.jpg)
 ![](/assets/images/sketches/sad1-james-photo.jpg)

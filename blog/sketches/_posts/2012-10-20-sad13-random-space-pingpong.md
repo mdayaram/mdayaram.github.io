@@ -3,8 +3,6 @@ layout: post
 title: Sketch-a-Day &#35;13
 subtitle: Random Space Ping Pong
 date: '2012-10-20T17:00:00-04:00'
-tags:
-- sketches
 ---
 ![](/assets/images/sketches/sad13-random-space-pingpong.jpg)
 
