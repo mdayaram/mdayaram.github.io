@@ -38,12 +38,12 @@ css: /assets/styles/post.css
             {% unless forloop.last %}
                 {% assign next = catg_posts[forloop.index] %}
                 <div class="prev">
-                <a href="{{ next.url }}">&larr; {{ next.title }} :: Previous ]</a>
+                <a href="{{ next.url }}">&larr; {{ next.title }} :: Previous</a>
                 </div>
             {% endunless %}
             {% unless forloop.first %}
                 <div class="next">
-                <a href="{{ prev.url }}">[ Next :: {{ prev.title }} &rarr;</a>
+                <a href="{{ prev.url }}">Next :: {{ prev.title }} &rarr;</a>
                 </div>
             {% endunless %}
         {% endif %}
