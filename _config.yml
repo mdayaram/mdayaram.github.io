@@ -94,3 +94,7 @@ exclude:
     - LICENSE
     - README.md
     - _private
+
+# Github sets these values when running pages.
+safe: true
+lsi: false
