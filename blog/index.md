@@ -6,6 +6,10 @@ description: So I wrote about it.
 
 Getting better, one failure at a time.
 
+This is the place where I write down my thoughts about this and that.  It's ok
+if you disagree with what I write, I still like you, and would love to talk to
+you about it over tea and crumpets with lemon curd...yum.
+
 {% for cat in site.categories %}
 <div class="post-list">
 	{% if cat[0] == "blog" %}
