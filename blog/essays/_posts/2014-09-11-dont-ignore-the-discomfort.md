@@ -104,7 +104,7 @@ On hindsight I wish I would’ve taken the newspaper, as an exchange is usually 
 
 ### Donald
 
-I was walking back home when I passed Donald as he asked me for a light for his cigarette. I let him borrow my lighter and asked him how his day was going. He was really enthralled that I had paused to talk to him, and was excited to be able to tell me a bunch of stories. He considered himself an artist, so I told him [I could relate]({% post_url 2014-08-30-an-exploration-of-software-artistry %}). He showed me some of the trash other people had thrown out that he wanted to repurpose as art, but didn’t have any ideas on how to yet. At some point he mentioned how he would really love to have color pencils again.
+I was walking back home when I passed Donald as he asked me for a light for his cigarette. I let him borrow my lighter and asked him how his day was going. He was really enthralled that I had paused to talk to him, and was excited to be able to tell me a bunch of stories. He considered himself an artist, so I told him [I could relate](an-exploration-of-software-artistry). He showed me some of the trash other people had thrown out that he wanted to repurpose as art, but didn’t have any ideas on how to yet. At some point he mentioned how he would really love to have color pencils again.
 
 > Me: You know, I’m heading to the store right now, I could probably get you a set of color pencils.  
 > Donald: Really? That would be fantastic!  
