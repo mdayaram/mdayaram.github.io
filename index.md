@@ -25,7 +25,8 @@ port, moscato,
 [b&amp;b](http://www.bandbliqueur.com/), magic, and
 [drawing](http://blog.noj.cc/tagged/sketch).  If you know I like
 something that's not on this list, then I probably either missed
-it, or I lied to you.
+it, or I lied to you.  I didn't mean to, though! I like you! It was probably
+a mistake.
 
 I will occasionally write [random musings](/blog) about life
 and such whenever I get the time or have a good idea.
