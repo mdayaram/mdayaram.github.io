@@ -20,6 +20,7 @@ Click on the top corner to turn the page.
 $("#sketchbook").turn({
 	display: 'double',
 	acceleration: true,
+	height: 450,
 });
 
 </script>
