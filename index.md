@@ -11,7 +11,8 @@ Hello there, welcome to my site!  My name is Manoj Dayaram, and I'm probably
 right now.
 
 If you came here to find out what I like, well then, I like fire,
-fruit parfaits, [hugs](/everybodyhurts), tea, computer science,
+[fruit parfaits](http://instagram.com/p/Tdz9s5G4OU/),
+[hugs](/everybodyhurts), tea, computer science,
 education, [pocket watches](http://www.iwcpocketwatch.com/),
 puppies, [kittens](http://www.lolcats.com),
 [ponies](http://mlp.wikia.com),
@@ -25,16 +26,21 @@ port, moscato,
 [b&amp;b](http://www.bandbliqueur.com/), magic, and
 [drawing](http://blog.noj.cc/tagged/sketch).  If you know I like
 something that's not on this list, then I probably either missed
-it, or I lied to you.  I didn't mean to, though! I like you! It was probably
-a mistake.
+it, or I lied to you.  I usually feel really guilty about lying, so that's
+unlikley, though if we were playing a game like
+[coup](http://boardgamegeek.com/boardgame/131357/coup),
+[resistance](http://boardgamegeek.com/boardgame/41114/resistance), or
+[bang](http://boardgamegeek.com/boardgame/3955/bang), all bets are off.
 
 I will occasionally write [random musings](/blog) about life
-and such whenever I get the time or have a good idea.
+and such whenever I get the time or have a good idea.  Feel free to paruse
+at your own pace.  I love hearing feedback.  Mostly negative.  I don't do so
+well with positive, but I'll hear both over a good cup of tea.  Honestly, I'll
+hear you talk about anything over a good cup of tea.  Let's chat over chai
+sometime.
 
-Unfortunately, there's not much else here, but if you'd like to find out
-more about me or want to get in touch with me to tell me you like something,
-completely disagree, or simply want to be vocal, you can always reach me
-through these channels.
+If physical space prevents us from getting tea together, you can always reach me
+through these other channels.
 
 <p id="contacts">
 {% for contact in site.contact-links %}
