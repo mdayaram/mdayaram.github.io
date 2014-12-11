@@ -17,6 +17,7 @@ function toggle(event) {
 	}
 }
 
+window.onload = function {
 var petes = document.getElementsByTagName("p");
 for (var i = 0; i < petes.length; i++) {
 	var amies = petes[i].getElementsByTagName("a");
@@ -28,3 +29,4 @@ for (var i = 0; i < petes.length; i++) {
 }
 
 toggle();
+}
