@@ -29,10 +29,10 @@ lemon curd...yum.
 
 {% for cat in site.categories %}
 	{% if cat[0] == "blog" %}
-	<div class="post-list">
+<div class="post-list">
 	<h3>All the Things!</h3>
 	{% else %}
-	<div class="post-list {{ cat | first }}">
+<div class="post-list {{ cat | first }}">
 	<h3>{{ cat | first | capitalize }}</h3>
 	{% endif %}
 	<ul>
