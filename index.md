@@ -24,7 +24,7 @@ grilled cheese, [juggling diabolo](/assets/images/manoj_diabolo.gif),
 port, moscato,
 [chartreuse](http://www.chartreuse.fr/green-chartreuse;fiche;3;uk.html),
 [b&amp;b](http://www.bandbliqueur.com/), magic, and
-[drawing](http://blog.noj.cc/tagged/sketch).  If you know I like
+[drawing](/blog/#sketches).  If you know I like
 something that's not on this list, then I probably either missed
 it, or I lied to you.  I usually feel really guilty about lying, so that's
 unlikley, though if we were playing a game like
