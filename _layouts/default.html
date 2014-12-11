@@ -23,10 +23,13 @@
   </head>
 
   <body>
-    {{ content }}
+    <script language="javascript" type="text/javascript" src="/assets/js/jquery.min.1.7.js"></script>
     {% if page.js %}
     <script language="javascript" type="text/javascript" src="{{ page.js }}"></script>
     {% endif %}
+
+    {{ content }}
+
     {% include analytics.html %}
   </body>
 </html>
