@@ -80,10 +80,15 @@ figure {
   text-align: center;
 }
 
-.post-list {
-  display: inline-block;
-  padding: 0 20px 0 20px;
-  vertical-align: top;
+.post-panel {
+  .post-list {
+    display: none;
+    padding: 0 20px 0 20px;
+    vertical-align: top;
+  }
+  .blog {
+    display: inline-block;
+  }
 }
 
 
