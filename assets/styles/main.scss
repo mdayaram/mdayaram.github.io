@@ -48,6 +48,12 @@ header.page {
   position: absolute;
 }
 
+@media only screen and (max-width: 400px) {
+  #title {
+    font-size: 70%;
+  }
+}
+
 /** Footer **/
 footer {
   background-color: #ffffff;
