@@ -2,31 +2,26 @@
 layout: null
 ---
 
-function toggle(event) {
-	var hash = window.location.hash.substr(1) || "blog";
-	if (event && event.target) {
-		hash = event.target.hash.substr(1);
-	}
-	var categories = document.getElementsByClassName("post-list");
-	for (var i = 0; i < categories.length; i++) {
-		if (categories[i].classList.contains(hash)) {
-			categories[i].style.display="inherit";
-		} else {
-			categories[i].style.display="none";
-		}
-	}
-}
+$(document).ready(function() {
+		var $active, $content, $links = $(".tab");
+		$active = $($links.filter('[href="'+location.hash+'"]')[0] || links[links.length - 1]);
+		$active.addClass('active');
+		$content = $($active[0].hash);
 
-window.onload = function {
-var petes = document.getElementsByTagName("p");
-for (var i = 0; i < petes.length; i++) {
-	var amies = petes[i].getElementsByTagName("a");
-	for (var j = 0; j < amies.length; j++) {
-		if (amies[j].hash.substr(1).length > 0) {
-			amies[j].addEventListener("click", toggle, false);
-		}
-	}
-}
+		$links.each(function() {
+			$(this.hash).hide();
+		});
+		$content.show();
 
-toggle();
-}
+	$('.tab').each(function() {
+		$(this).on('click', function(e){
+			$active.removeClass('active');
+			$content.hide();
+			$active = $(this);
+			$content = $(this.hash);
+			$active.addClass('active');
+			$content.show();
+		});
+	});
+});
+
