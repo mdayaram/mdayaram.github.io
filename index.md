@@ -27,17 +27,14 @@ port, moscato,
 [drawing](/blog/#sketches).  If you know I like
 something that's not on this list, then I probably either missed
 it, or I lied to you.  I usually feel really guilty about lying, so that's
-unlikley, though if we were playing a game like
-[coup](http://boardgamegeek.com/boardgame/131357/coup),
-[resistance](http://boardgamegeek.com/boardgame/41114/resistance), or
-[bang](http://boardgamegeek.com/boardgame/3955/bang), all bets are off.
+unlikley.
 
 I will occasionally write [random musings](/blog) about life
 and such whenever I get the time or have a good idea.  Feel free to paruse
-at your own pace.  I love hearing feedback.  Mostly negative.  I don't do so
-well with positive, but I'll hear both over a good cup of tea.  Honestly, I'll
-hear you talk about anything over a good cup of tea.  Let's chat over chai
-sometime.
+at your own pace.  I love hearing feedback.  Tell me all the bad things.  I want
+them.  I keep them in a box and then when I'm feeling awesome I tackle them with
+hugs and cuddles.  We can always chat about them over chai tea if you prefer
+that though.  Hah, chat over chai.  Let's make it happen!
 
 If physical space prevents us from getting tea together, you can always reach me
 through these other channels.
