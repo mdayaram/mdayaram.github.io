@@ -4,7 +4,7 @@ layout: null
 
 $(document).ready(function() {
 		var $active, $content, $links = $(".tab");
-		$active = $($links.filter('[href="'+location.hash+'"]')[0] || links[links.length - 1]);
+		$active = $($links.filter('[href="'+location.hash+'"]')[0] || $links[$links.length - 1]);
 		$active.addClass('active');
 		$content = $($active[0].hash);
 
