@@ -17,6 +17,3 @@ Pages.
 * Add old sketchbook drawings.
 * Add links to friends with sites.
 * Make dedicated pages/rss for just essays, stories, and sketches
-* Have a previous and next link at the bottom of posts (specific to tag)
-* Twitterstream?
-* Facebookstream?
