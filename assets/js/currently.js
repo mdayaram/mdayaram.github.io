@@ -5,11 +5,16 @@ var currently = [
 	{% for activity in site.currently-doing %}
 		"{{ activity }}",
 	{% endfor %}
+	// In order to deal with the comma, add an extra empty string item.
 		""];
 
+// remove empty string item.
 currently.pop();
-var activity = currently[Math.floor(Math.random() * currently.length)];
-var elem = document.getElementById("currently-doing");
-if(elem != null) {
-	elem.innerText = activity;
-}
+
+$(document).ready(function() {
+	var activity = currently[Math.floor(Math.random() * currently.length)];
+	var elem = document.getElementById("currently-doing");
+	if(elem != null) {
+		elem.innerText = activity;
+	}
+});
