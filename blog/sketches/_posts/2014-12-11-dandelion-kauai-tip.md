@@ -9,7 +9,7 @@ js: /assets/js/turn.js
 Click on the top corner to turn the page.
 
 <div id="sketchbook">
-{% for i in (1..57) %}
+{% for i in (1..55) %}
 <div>
 <img src="/assets/images/sketches/dandelion-summer/dandelion-notebook-{{ i }}.jpeg"/>
 </div>
