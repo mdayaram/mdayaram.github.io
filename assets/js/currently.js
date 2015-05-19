@@ -13,8 +13,8 @@ currently.pop();
 
 $(document).ready(function() {
 	var activity = currently[Math.floor(Math.random() * currently.length)];
-	var elem = document.getElementById("currently-doing");
+	var elem = $("#currently-doing");
 	if(elem != null) {
-		elem.innerText = activity;
+		elem.text(activity);
 	}
 });
