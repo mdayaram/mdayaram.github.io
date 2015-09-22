@@ -9,8 +9,10 @@ Click on the top corner to turn the page.
 
 <div id="sketchbook" width="100%">
 {% for i in (1..55) %}
+{% if i % 2 == 0 %}
 <div align="center">
 <img src="/assets/images/sketches/dandelion-summer/dandelion-notebook-{{ i }}.jpeg"/>
 </div>
+{% endif %}
 {% endfor %}
 </div>
