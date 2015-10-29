@@ -3,6 +3,7 @@ layout: page
 title: Manoj Dayaram
 permalink: /
 js: /assets/js/currently.js
+js: /assets/js/hugs.js
 css: /assets/styles/index.css
 ---
 
@@ -55,6 +56,6 @@ Thanks for stopping by!  Due to the nature of our meeting, we will have to
 settle for virtual hugs for now, but looking forward to hugging you in real life
 soon!
 
-<figure>
-<img title="&lt;3" alt="&lt;3" src="/assets/images/virtual-hug.gif">
+<figure id="hugs">
+<img title="&lt;3" alt="&lt;3" src="">
 </figure>

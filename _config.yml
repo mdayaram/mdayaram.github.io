@@ -51,6 +51,10 @@ currently-doing:
   - looking at adorable internet things
   - computering all the things
 
+hug-images:
+  - /assets/images/virtual-hug.gif
+  - /assets/images/penguin-hug.gif
+  - /assets/images/ghost-hug.gif
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: nojblog
