@@ -2,9 +2,8 @@
 layout: page
 title: Manoj Dayaram
 permalink: /
-js: /assets/js/currently.js
-js: /assets/js/hugs.js
-css: /assets/styles/index.css
+js: [/assets/js/currently.js, /assets/js/hugs.js]
+css: [/assets/styles/index.css]
 ---
 
 Hello there, welcome to my site!  My name is Manoj Dayaram, and I'm probably

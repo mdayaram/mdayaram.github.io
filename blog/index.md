@@ -2,7 +2,7 @@
 layout: page
 title: Stuff Happened
 description: So I wrote about it.
-js: /assets/js/blog.js
+js: [/assets/js/blog.js]
 ---
 
 Getting better, one failure at a time.

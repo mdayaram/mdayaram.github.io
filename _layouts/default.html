@@ -16,18 +16,18 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="/assets/styles/main.css" />
-    {% if page.css %}
-    <link rel="stylesheet" type="text/css" href="{{ page.css }}" />
-    {% endif %}
+    {% for css in page.css %}
+    <link rel="stylesheet" type="text/css" href="{{ css }}" />
+    {% endfor %}
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="/blog/all.xml" />
 
   </head>
 
   <body>
     <script language="javascript" type="text/javascript" src="/assets/js/jquery.min.1.7.js"></script>
-    {% if page.js %}
-    <script language="javascript" type="text/javascript" src="{{ page.js }}"></script>
-    {% endif %}
+    {% for js in  page.js %}
+    <script language="javascript" type="text/javascript" src="{{ js }}"></script>
+    {% endfor %}
 
     {{ content }}
 
