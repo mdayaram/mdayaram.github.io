@@ -12,7 +12,7 @@ Pages.
 * Update home page
 * Add a projects page to showcase some projects.
 	* Graph animator, millee, gitsy, etc...
-	* Phoenix f1? http://sub.gmnews.com/news/2005-08-25/Business/
+	* Phoenix f1? http://www1.gmnews.com/2005/08/25/school-buds-power-up-computer-repair-biz/
 	* Headerecho and Argos
 * Add old sketchbook drawings.
 * Add links to friends with sites.
