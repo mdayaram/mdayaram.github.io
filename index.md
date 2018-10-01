@@ -34,7 +34,7 @@ and such whenever I get the time or have a good idea.  Feel free to paruse
 at your own pace.  I love hearing feedback.  Tell me all the bad things.  I want
 them.  I keep them in a box and then when I'm feeling awesome I tackle them with
 hugs and cuddles.  We can always chat about them over chai tea if you prefer
-that though.  Hah, chat over chai.  Let's make it happen!
+that though.  Let's make it happen!
 
 If physical space prevents us from getting tea together, you can always reach me
 through these other channels.
