@@ -25,16 +25,11 @@ port, moscato,
 [chartreuse](http://www.chartreuse.fr/green-chartreuse;fiche;3;uk.html),
 [b&amp;b](http://www.bandbliqueur.com/), magic, and
 [drawing](/blog/#sketches).  If you know I like
-something that's not on this list, then I probably either missed
-it, or I lied to you.  I usually feel really guilty about lying, so that's
-unlikley.
+something that's not on this list, it's probably because I'm too lazy to update it.
 
 I will occasionally write [random musings](/blog) about life
 and such whenever I get the time or have a good idea.  Feel free to paruse
-at your own pace.  I love hearing feedback.  Tell me all the bad things.  I want
-them.  I keep them in a box and then when I'm feeling awesome I tackle them with
-hugs and cuddles.  We can always chat about them over chai tea if you prefer
-that though.  Let's make it happen!
+at your own pace.
 
 If physical space prevents us from getting tea together, you can always reach me
 through these other channels.
