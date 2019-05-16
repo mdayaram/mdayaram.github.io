@@ -41,11 +41,7 @@ through these other channels.
 
 <p id="contacts">
 {% for contact in site.contact-links %}
-	{% if contact[1].size < 3 %}
 	<a class="contact" title="{{ contact[0] }}" href="{{ contact[1][0] }}">
-	{% else %}
-	<a title="{{ contact[0] }}" href="{{ contact[1][0] }}" onclick="{{ contact[1][2] }}">
-	{% endif %}
 		<img alt="{{ contact[0] }}" src="{{ contact[1][1] }}">
 	</a>
 {% endfor %}

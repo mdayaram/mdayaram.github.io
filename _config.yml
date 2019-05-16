@@ -10,28 +10,21 @@ description: Getting better, one failure at a time.
 
 # Includes an icon in the footer for each username you enter
 contact-links:
-  Facebook:
+  Facebook Friend:
     - https://www.facebook.com/mdayaram
-    - /assets/images/c/facebook.png
-  Twitter:
+    - /assets/images/c/fb.png
+  Twitter Tweet:
     - https://www.twitter.com/nojtweets
-    - /assets/images/c/twitter.png
-  Google Plus:
-    - https://plus.google.com/+ManojDayaram1/
-    - /assets/images/c/gplus.png
-  LinkedIn:
+    - /assets/images/c/twi.png
+  LinkedIn Connect:
     - https://www.linkedin.com/in/mdayaram
-    - /assets/images/c/linkedin.png
-  Pinterest:
+    - /assets/images/c/lin.png
+  Pinterest Pin:
     - https://pinterest.com/mdayaram
-    - /assets/images/c/pinterest.png
-  Github:
+    - /assets/images/c/pin.png
+  Github Follow:
     - https://github.com/mdayaram
     - /assets/images/c/github.png
-  Email:
-    - https://www.google.com/recaptcha/mailhide/d?k=01vKBXg12XP9GeR5bxrmga_w==&amp;c=rZBSr-L6v-4LgCyK8GcSBw==
-    - /assets/images/c/email.png
-    - window.open('https://www.google.com/recaptcha/mailhide/d?k\07501vKBXg12XP9GeR5bxrmga_w\75\75\46c\75rZBSr-L6v-4LgCyK8GcSBw\75\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;
   Kitty Messenger Services:
     - http://3.bp.blogspot.com/_ckBlasgNSzg/SjVpbeYKTdI/AAAAAAAAMrk/t_BbIe26CSs/s1600/You%27ve+Got+Mail.jpg
     - /assets/images/c/kitty.png
