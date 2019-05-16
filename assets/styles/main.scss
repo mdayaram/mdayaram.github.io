@@ -48,6 +48,12 @@ header.page {
   position: absolute;
 }
 
+#subtitle {
+  text-align: center;
+  width: 100%;
+  font-size: small;
+}
+
 @media only screen and (max-width: 400px) {
   #title {
     top: 10px;

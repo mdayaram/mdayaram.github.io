@@ -5,8 +5,6 @@ description: So I wrote about it.
 js: [/assets/js/blog.js]
 ---
 
-Getting better, one failure at a time.
-
 This is the place where I keep most of my things.  Sometimes I draw
 <a class="tab" href="#sketches">sketches</a>, sometimes I write
 <a class="tab" href="#essays">essays</a>, and sometimes I may
