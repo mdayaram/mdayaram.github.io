@@ -5,7 +5,7 @@ title: Everybody Hurts
 
 "Hugs" in as many languages as possible.  Inspired by [this comic](http://www.sinfest.net/archive_page.php?comicID=2917) from [sinfest.net](http://www.sinfest.net):
 
-[![sinfest.net](http://sinfest.net/comikaze/comics/2008-08-31.gif)](http://www.sinfest.net/archive_page.php?comicID=2917)
+[![sinfest.net](https://www.sinfest.net/btphp/comics/2008-08-31.gif)](https://www.sinfest.net/view.php?date=2008-08-31)
 
 And here we go!
 
