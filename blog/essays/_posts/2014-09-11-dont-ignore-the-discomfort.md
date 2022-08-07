@@ -6,6 +6,10 @@ cover: /assets/images/essays/discomfort.jpg
 date: '2014-09-11T10:23:00-04:00'
 ---
 
+_Disclaimer: I wrote this a long time ago; a time when past Manoj took his male privileges of safety with strangers for granted. I've left the article as it was written because I don't have the time to update it accordingly with how I feel about this today, but just wanted to add this disclaimer to note: I'm a big scary-looking guy, so obviously I feel safe doing what I described, but I don't expect and fully understand that other people would not and if they did, could also have completely different (and potentially dangerous) interactions instead. Ultimately, ensure that you are safe before deciding to interact with anyone._
+
+---
+
 First, a series of stories. Let’s try to go through them chronologically.
 
 ### Avoidance
