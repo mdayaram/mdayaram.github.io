@@ -4,6 +4,8 @@ title: The Journey
 description: Vagabonding
 ---
 
+> The Journey is over! Thanks everyone who housed me during the project and facilitated me living out one of the best years of my life! Leaving this page here for posterity.
+
 Hi friends! As some of you may already know, I have been embarking on a vagabond journey! On June 2018, I moved out of place to couch surf. But instead of couch surfing with strangers, I thought it would be neat if I could couch surf with my friends!
 
 * Have you ever wanted to spend more time with me? No?
