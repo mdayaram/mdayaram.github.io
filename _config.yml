@@ -49,9 +49,6 @@ hug-images:
   - /assets/images/penguin-hug.gif
   - /assets/images/ghost-hug.gif
 
-# Your disqus shortname, entering this will enable commenting on posts
-disqus: nojblog
-
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-48761295-1
 
