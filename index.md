@@ -6,7 +6,7 @@ js: [/assets/js/currently.js, /assets/js/hugs.js]
 css: [/assets/styles/index.css]
 ---
 
-Hello there, welcome to my site!  My name is Manoj Dayaram, and I'm probably
+Hello there!  My name is Manoj Dayaram, and I'm probably
 <span id="currently-doing"></span>
 right now.
 
@@ -26,7 +26,8 @@ port, moscato,
 [chartreuse](http://www.chartreuse.fr/green-chartreuse;fiche;3;uk.html),
 [b&amp;b](http://www.bandbliqueur.com/), magic, and
 [drawing](/blog/#sketches).  If you know I like
-something that's not on this list, it's probably because I'm too lazy to update it.
+something that's not on this list, it's probably because it's been a while since
+I've updated this.
 
 I will occasionally write [random musings](/blog) about life
 and such whenever I get the time or have a good idea.  Feel free to paruse
